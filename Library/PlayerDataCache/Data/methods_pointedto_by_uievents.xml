@@ -1,0 +1,92 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="QuestionReview">
+			<method name="onStarred"/>
+			<method name="onStarred"/>
+			<method name="onStarred"/>
+		</type>
+		<type fullname="TestIcon">
+			<method name="onTestSelect"/>
+			<method name="onTestSelect"/>
+		</type>
+		<type fullname="MainController">
+			<method name="starQuestions"/>
+			<method name="ContinuePlayGame"/>
+			<method name="PlayGame"/>
+			<method name="ReturnHome"/>
+			<method name="CloseQuitPanel"/>
+			<method name="ReturnHome"/>
+			<method name="ToggleSound"/>
+			<method name="ShowTestReviewPage"/>
+			<method name="URL"/>
+			<method name="QuitGame"/>
+			<method name="ShowTestReviewPage"/>
+			<method name="ResumeTest"/>
+			<method name="HideNumberOfQuestionsError"/>
+			<method name="ToggleSound"/>
+			<method name="CloseConfirmationPanel"/>
+			<method name="ShowTestReviewPage"/>
+			<method name="ResetTest"/>
+			<method name="ReturnHome"/>
+			<method name="ReturnHome"/>
+			<method name="HideNoAnswerPopup"/>
+			<method name="ToggleVibration"/>
+			<method name="ToggleVibration"/>
+			<method name="ShowReviewPage"/>
+		</type>
+		<type fullname="MaterialUI.DialogBoxConfig">
+			<method name="Close"/>
+			<method name="Close"/>
+			<method name="BackgroundClick"/>
+			<method name="BackgroundClick"/>
+			<method name="Close"/>
+			<method name="BackgroundClick"/>
+			<method name="Close"/>
+			<method name="Close"/>
+			<method name="Close"/>
+			<method name="Close"/>
+			<method name="BackgroundClick"/>
+			<method name="Close"/>
+			<method name="BackgroundClick"/>
+			<method name="BackgroundClick"/>
+			<method name="Close"/>
+		</type>
+		<type fullname="MaterialUI.RadioButtons">
+			<method name="triggerToggle"/>
+			<method name="triggerToggle"/>
+			<method name="triggerToggle"/>
+			<method name="triggerToggle"/>
+			<method name="triggerToggle"/>
+			<method name="triggerToggle"/>
+		</type>
+		<type fullname="Scroller">
+			<method name="LerpToPage"/>
+			<method name="LerpToPage"/>
+			<method name="LerpToPage"/>
+			<method name="LerpToPage"/>
+		</type>
+		<type fullname="MainMenuHandler">
+			<method name="cancelResume"/>
+			<method name="changeLimit"/>
+			<method name="changeLimit"/>
+			<method name="cancelReview"/>
+			<method name="changeLimit"/>
+			<method name="cancelResume"/>
+			<method name="cancelReview"/>
+			<method name="changeLimit"/>
+			<method name="cancelResume"/>
+		</type>
+		<type fullname="MaterialUI.SwitchConfig">
+			<method name="ToggleSwitch"/>
+			<method name="ToggleSwitch"/>
+			<method name="ToggleSwitch"/>
+			<method name="ToggleSwitch"/>
+		</type>
+		<type fullname="ToggleTextChanger">
+			<method name="ToggleText"/>
+			<method name="ToggleText"/>
+			<method name="ToggleText"/>
+			<method name="ToggleText"/>
+		</type>
+	</assembly>
+</linker>

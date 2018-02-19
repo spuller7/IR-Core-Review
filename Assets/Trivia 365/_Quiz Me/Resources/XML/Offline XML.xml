@@ -1,0 +1,4647 @@
+<?xml version="1.0"?>
+<QuestionDatabase>
+  <Questions>
+    <Question>Which is the best injection rate for the aorta?</Question>
+    <ID>1</ID>
+    <Answers>
+      <Choices correct="false">2 mL/s for 8 mL</Choices>
+      <Choices correct="false">4 mL/s for 12 mL</Choices>
+      <Choices correct="false">5 mL/s for 10 mL</Choices>
+      <Choices correct="false">6 mL/s for 24 mL</Choices>
+      <Choices correct="false">6 mL/s for 30 mL</Choices>
+      <Choices correct="false">10 mL/s for 10 mL</Choices>
+      <Choices correct="false">15 mL/s for 30 mL</Choices>
+      <Choices correct="true">30 mL/s for 30 mL</Choices>
+    </Answers>
+    <Answer>H</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the best injection rate for the inferior vena cava?</Question>
+    <ID>2</ID>
+    <Answers>
+      <Choices correct="false">2 mL/s for 8 mL</Choices>
+      <Choices correct="false">4 mL/s for 12 mL</Choices>
+      <Choices correct="false">5 mL/s for 10 mL</Choices>
+      <Choices correct="false">6 mL/s for 24 mL</Choices>
+      <Choices correct="false">6 mL/s for 30 mL</Choices>
+      <Choices correct="false">10 mL/s for 10 mL</Choices>
+      <Choices correct="true">15 mL/s for 30 mL</Choices>
+      <Choices correct="false">30 mL/s for 30 mL</Choices>
+    </Answers>
+    <Answer>G</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the best injection rate for the celiac artery?</Question>
+    <ID>3</ID>
+    <Answers>
+      <Choices correct="false">2 mL/s for 8 mL</Choices>
+      <Choices correct="false">4 mL/s for 12 mL</Choices>
+      <Choices correct="false">5 mL/s for 10 mL</Choices>
+      <Choices correct="true">6 mL/s for 24 mL</Choices>
+      <Choices correct="false">6 mL/s for 30 mL</Choices>
+      <Choices correct="false">10 mL/s for 10 mL</Choices>
+      <Choices correct="false">15 mL/s for 30 mL</Choices>
+      <Choices correct="false">30 mL/s for 30 mL</Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the best injection rate for the superior mesenteric artery?</Question>
+    <ID>4</ID>
+    <Answers>
+      <Choices correct="false">2 mL/s for 8 mL</Choices>
+      <Choices correct="false">4 mL/s for 12 mL</Choices>
+      <Choices correct="false">5 mL/s for 10 mL</Choices>
+      <Choices correct="false">6 mL/s for 24 mL</Choices>
+      <Choices correct="true">6 mL/s for 30 mL</Choices>
+      <Choices correct="false">10 mL/s for 10 mL</Choices>
+      <Choices correct="false">15 mL/s for 30 mL</Choices>
+      <Choices correct="false">30 mL/s for 30 mL</Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the best injection rate for the inferior mesenteric artery?</Question>
+    <ID>5</ID>
+    <Answers>
+      <Choices correct="false">2 mL/s for 8 mL</Choices>
+      <Choices correct="true">4 mL/s for 12 mL</Choices>
+      <Choices correct="false">5 mL/s for 10 mL</Choices>
+      <Choices correct="false">6 mL/s for 24 mL</Choices>
+      <Choices correct="false">6 mL/s for 30 mL</Choices>
+      <Choices correct="false">10 mL/s for 10 mL</Choices>
+      <Choices correct="false">15 mL/s for 30 mL</Choices>
+      <Choices correct="false">30 mL/s for 30 mL</Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the best injection rate for the right/left hepatic artery?</Question>
+    <ID>6</ID>
+    <Answers>
+      <Choices correct="true">2 mL/s for 8 mL</Choices>
+      <Choices correct="false">4 mL/s for 12 mL</Choices>
+      <Choices correct="false">5 mL/s for 10 mL</Choices>
+      <Choices correct="false">6 mL/s for 24 mL</Choices>
+      <Choices correct="false">6 mL/s for 30 mL</Choices>
+      <Choices correct="false">10 mL/s for 10 mL</Choices>
+      <Choices correct="false">15 mL/s for 30 mL</Choices>
+      <Choices correct="false">30 mL/s for 30 mL</Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the best injection rate for the right/left renal artery?</Question>
+    <ID>7</ID>
+    <Answers>
+      <Choices correct="false">2 mL/s for 8 mL</Choices>
+      <Choices correct="false">4 mL/s for 12 mL</Choices>
+      <Choices correct="true">5 mL/s for 10 mL</Choices>
+      <Choices correct="false">6 mL/s for 24 mL</Choices>
+      <Choices correct="false">6 mL/s for 30 mL</Choices>
+      <Choices correct="false">10 mL/s for 10 mL</Choices>
+      <Choices correct="false">15 mL/s for 30 mL</Choices>
+      <Choices correct="false">30 mL/s for 30 mL</Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the angiographic view for the aortic arch?</Question>
+    <ID>8</ID>
+    <Answers>
+      <Choices correct="true">Left anterior oblique (LAO)</Choices>
+      <Choices correct="false">Anteroposterior</Choices>
+      <Choices correct="false">Craniocaudal</Choices>
+      <Choices correct="false">Lateral</Choices>
+      <Choices correct="false">Right anterior oblique (RAO)</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the angiographic view for the left subclavian artery?</Question>
+    <ID>9</ID>
+    <Answers>
+      <Choices correct="true">Left anterior oblique (LAO)</Choices>
+      <Choices correct="false">Anteroposterior</Choices>
+      <Choices correct="false">Craniocaudal</Choices>
+      <Choices correct="false">Lateral</Choices>
+      <Choices correct="false">Right anterior oblique (RAO)</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the angiographic view for the left renal artery?</Question>
+    <ID>10</ID>
+    <Answers>
+      <Choices correct="true">Left anterior oblique (LAO)</Choices>
+      <Choices correct="false">Anteroposterior</Choices>
+      <Choices correct="false">Craniocaudal</Choices>
+      <Choices correct="false">Lateral</Choices>
+      <Choices correct="false">Right anterior oblique (RAO)</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the angiographic view for the left iliac bifurcation?</Question>
+    <ID>11</ID>
+    <Answers>
+      <Choices correct="true">Right anterior oblique (RAO)</Choices>
+      <Choices correct="false">Anteroposterior</Choices>
+      <Choices correct="false">Craniocaudal</Choices>
+      <Choices correct="false">Lateral</Choices>
+      <Choices correct="false">Left anterior oblique (LAO)</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is angiographic view for the left superficial femoral artery/profunda?</Question>
+    <ID>12</ID>
+    <Answers>
+      <Choices correct="true">Left anterior oblique (LAO)</Choices>
+      <Choices correct="false">Anteroposterior</Choices>
+      <Choices correct="false">Craniocaudal</Choices>
+      <Choices correct="false">Lateral</Choices>
+      <Choices correct="false">Right anterior oblique (RAO)</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is angiographic view for the inferior mesenteric artery?</Question>
+    <ID>13</ID>
+    <Answers>
+      <Choices correct="true">Right anterior oblique (RAO)</Choices>
+      <Choices correct="false">Anteroposterior</Choices>
+      <Choices correct="false">Craniocaudal</Choices>
+      <Choices correct="false">Lateral</Choices>
+      <Choices correct="false">Left anterior oblique (LAO)</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Unfractionated heparin should be stopped how long before procedure?</Question>
+    <ID>14</ID>
+    <Answers>
+      <Choices correct="false">1 hour</Choices>
+      <Choices correct="true">3-6 hours</Choices>
+      <Choices correct="false">24 hours</Choices>
+      <Choices correct="false">5 days</Choices>
+      <Choices correct="false">7 days</Choices>
+      <Choices correct="false">14 days</Choices>
+      <Choices correct="false">30 days</Choices>
+      <Choices correct="false">Do not hold</Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Low molecular weight heparin should be stopped how long before procedure?</Question>
+    <ID>15</ID>
+    <Answers>
+      <Choices correct="false">1 hour</Choices>
+      <Choices correct="false">3-6 hours</Choices>
+      <Choices correct="true">24 hours</Choices>
+      <Choices correct="false">5 days</Choices>
+      <Choices correct="false">7 days</Choices>
+      <Choices correct="false">14 days</Choices>
+      <Choices correct="false">30 days</Choices>
+      <Choices correct="false">Do not hold</Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Warfarin should be stopped how long before procedure?</Question>
+    <ID>16</ID>
+    <Answers>
+      <Choices correct="false">1 hour</Choices>
+      <Choices correct="false">3-6 hours</Choices>
+      <Choices correct="false">24 hours</Choices>
+      <Choices correct="true">5 days</Choices>
+      <Choices correct="false">7 days</Choices>
+      <Choices correct="false">14 days</Choices>
+      <Choices correct="false">30 days</Choices>
+      <Choices correct="false">Do not hold</Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Argatroban should be stopped how long before procedure?</Question>
+    <ID>17</ID>
+    <Answers>
+      <Choices correct="false">1 hour</Choices>
+      <Choices correct="true">3-6 hours</Choices>
+      <Choices correct="false">24 hours</Choices>
+      <Choices correct="false">5 days</Choices>
+      <Choices correct="false">7 days</Choices>
+      <Choices correct="false">14 days</Choices>
+      <Choices correct="false">30 days</Choices>
+      <Choices correct="false">Do not hold</Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Aspirin should be stopped how long before procedure?</Question>
+    <ID>18</ID>
+    <Answers>
+      <Choices correct="false">1 hour</Choices>
+      <Choices correct="false">3-6 hours</Choices>
+      <Choices correct="false">24 hours</Choices>
+      <Choices correct="false">5 days</Choices>
+      <Choices correct="false">7 days</Choices>
+      <Choices correct="false">14 days</Choices>
+      <Choices correct="false">30 days</Choices>
+      <Choices correct="true">Do not hold</Choices>
+    </Answers>
+    <Answer>H</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Clopidogrel should be stopped how long before (high risk) procedure?</Question>
+    <ID>19</ID>
+    <Answers>
+      <Choices correct="false">1 hour</Choices>
+      <Choices correct="false">3-6 hours</Choices>
+      <Choices correct="false">24 hours</Choices>
+      <Choices correct="true">5 days</Choices>
+      <Choices correct="false">7 days</Choices>
+      <Choices correct="false">14 days</Choices>
+      <Choices correct="false">30 days</Choices>
+      <Choices correct="false">Do not hold</Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The celiac artery arises at what anatomic level?</Question>
+    <ID>20</ID>
+    <Answers>
+      <Choices correct="false">T10</Choices>
+      <Choices correct="true">T12</Choices>
+      <Choices correct="false">L1/L2</Choices>
+      <Choices correct="false">L3</Choices>
+      <Choices correct="false">L4</Choices>
+      <Choices correct="false">L5</Choices>
+      <Choices correct="false">S1</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The superior mesenteric artery arises at what anatomic level?</Question>
+    <ID>21</ID>
+    <Answers>
+      <Choices correct="true">L1/L2</Choices>
+      <Choices correct="false">T10</Choices>
+      <Choices correct="false">T12</Choices>
+      <Choices correct="false">L3</Choices>
+      <Choices correct="false">L4</Choices>
+      <Choices correct="false">L5</Choices>
+      <Choices correct="false">S1</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The left renal artery arises at what anatomic level?</Question>
+    <ID>22</ID>
+    <Answers>
+      <Choices correct="true">L1/L2</Choices>
+      <Choices correct="false">T10</Choices>
+      <Choices correct="false">T12</Choices>
+      <Choices correct="false">L3</Choices>
+      <Choices correct="false">L4</Choices>
+      <Choices correct="false">L5</Choices>
+      <Choices correct="false">S1</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The inferior mesenteric arises at what anatomic level?</Question>
+    <ID>23</ID>
+    <Answers>
+      <Choices correct="true">L3</Choices>
+      <Choices correct="false">T10</Choices>
+      <Choices correct="false">T12</Choices>
+      <Choices correct="false">L1/L2</Choices>
+      <Choices correct="false">L4</Choices>
+      <Choices correct="false">L5</Choices>
+      <Choices correct="false">S1</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the goal partial thromoplastin time (PTT) for full heparinization?</Question>
+    <ID>24</ID>
+    <Answers>
+      <Choices correct="false">10-20</Choices>
+      <Choices correct="false">20-30</Choices>
+      <Choices correct="false">30-45</Choices>
+      <Choices correct="false">45-55</Choices>
+      <Choices correct="true">55-70</Choices>
+      <Choices correct="false">70-80</Choices>
+      <Choices correct="false">80-100</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the goal partial thromoplastin time (PTT) for arterial/venous lysis?</Question>
+    <ID>25</ID>
+    <Answers>
+      <Choices correct="false">10-20</Choices>
+      <Choices correct="false">20-30</Choices>
+      <Choices correct="false">30-45</Choices>
+      <Choices correct="true">45-55</Choices>
+      <Choices correct="false">55-70</Choices>
+      <Choices correct="false">70-80</Choices>
+      <Choices correct="false">80-100</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the tissue plasminogen activator (TPA) dose for arterial lysis?</Question>
+    <ID>26</ID>
+    <Answers>
+      <Choices correct="false">0.25 mg/hour</Choices>
+      <Choices correct="true">0.5 mg/hour</Choices>
+      <Choices correct="false">1 mg/hour</Choices>
+      <Choices correct="false">2 mg/hour</Choices>
+      <Choices correct="false">5 mg/hour</Choices>
+      <Choices correct="false">10 mg/hour</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the tissue plasminogen activator (TPA) dose for venous lysis?</Question>
+    <ID>27</ID>
+    <Answers>
+      <Choices correct="false">0.25 mg/hour</Choices>
+      <Choices correct="false">0.5 mg/hour</Choices>
+      <Choices correct="true">1 mg/hour</Choices>
+      <Choices correct="false">2 mg/hour</Choices>
+      <Choices correct="false">5 mg/hour</Choices>
+      <Choices correct="false">10 mg/hour</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the heparin dose for arterial/venous lysis?</Question>
+    <ID>28</ID>
+    <Answers>
+      <Choices correct="false">100-200 units/hour</Choices>
+      <Choices correct="false">200-300 units/hour</Choices>
+      <Choices correct="true">300-500 units/hour</Choices>
+      <Choices correct="false">500-800 units/hour</Choices>
+      <Choices correct="false">800-1,000 units/hour</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which of the following catheters is ideal for selecting up-going vessels?</Question>
+    <ID>29</ID>
+    <Answers>
+      <Choices correct="true">Berenstein</Choices>
+      <Choices correct="false">Mikaelson</Choices>
+      <Choices correct="false">Sos</Choices>
+      <Choices correct="false">Simmons</Choices>
+      <Choices correct="false">Cobra</Choices>
+      <Choices correct="false">Renal Double Curve</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which of the following catheters is ideal for selecting the bronchial arteries?</Question>
+    <ID>30</ID>
+    <Answers>
+      <Choices correct="true">Mikaelson</Choices>
+      <Choices correct="false">Berenstein</Choices>
+      <Choices correct="false">Sos</Choices>
+      <Choices correct="false">Simmons</Choices>
+      <Choices correct="false">Cobra</Choices>
+      <Choices correct="false">Renal Double Curve</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which of the following is a temporary embolic agent?</Question>
+    <ID>31</ID>
+    <Answers>
+      <Choices correct="true">Gelfoam</Choices>
+      <Choices correct="false">Polyvinyl alcohol</Choices>
+      <Choices correct="false">Embospheres</Choices>
+      <Choices correct="false">Onyx</Choices>
+      <Choices correct="false">Alcohol</Choices>
+      <Choices correct="false">AMPLATZER plugs</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which of the following is a particulate embolic agent?</Question>
+    <ID>32</ID>
+    <Answers>
+      <Choices correct="true">Polyvinyl alcohol</Choices>
+      <Choices correct="false">Ethiodized oil</Choices>
+      <Choices correct="false">Glue</Choices>
+      <Choices correct="false">Onyx</Choices>
+      <Choices correct="false">Alcohol</Choices>
+      <Choices correct="false">AMPLATZER plugs</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which of the following is a liquid embolic agent?</Question>
+    <ID>33</ID>
+    <Answers>
+      <Choices correct="true">Onyx</Choices>
+      <Choices correct="false">Gelfoam</Choices>
+      <Choices correct="false">Collagen</Choices>
+      <Choices correct="false">Thrombin</Choices>
+      <Choices correct="false">Polyvinyl alcohol</Choices>
+      <Choices correct="false">Embospheres</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>In order to prevent migration, coils should be oversized by what percentage?</Question>
+    <ID>34</ID>
+    <Answers>
+      <Choices correct="false">5-10%</Choices>
+      <Choices correct="false">10-20%</Choices>
+      <Choices correct="true">20-30%</Choices>
+      <Choices correct="false">30-50%</Choices>
+      <Choices correct="false">50-75%</Choices>
+      <Choices correct="false">75-100%</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the purpose of adding ethiodized oil to glue?</Question>
+    <ID>35</ID>
+    <Answers>
+      <Choices correct="true">Extends polymerization time</Choices>
+      <Choices correct="false">Decrease volume</Choices>
+      <Choices correct="false">Increase volume</Choices>
+      <Choices correct="false">Increase viscosity</Choices>
+      <Choices correct="false">Reduces polymerization time</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the maximum amount of alcohol that may be used in an adult?</Question>
+    <ID>36</ID>
+    <Answers>
+      <Choices correct="false">None</Choices>
+      <Choices correct="false">5 mL</Choices>
+      <Choices correct="false">10 mL</Choices>
+      <Choices correct="false">20 mL</Choices>
+      <Choices correct="true">30 mL</Choices>
+      <Choices correct="false">50 mL</Choices>
+      <Choices correct="false">100 mL</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What volume is required to reach the threshold for </Question>
+    <ID>37</ID>
+    <Answers>
+      <Choices correct="false">50 mL/24 hours</Choices>
+      <Choices correct="false">100-200 mL/24 hours</Choices>
+      <Choices correct="true">200-300 mL/24 hours</Choices>
+      <Choices correct="false">300-500 mL/24 hours</Choices>
+      <Choices correct="false">500-1,000 mL/24 hours</Choices>
+      <Choices correct="false">&gt;1,000 mL/24 hours</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Attention to which artery is required when performing bronchial artery embolization?</Question>
+    <ID>38</ID>
+    <Answers>
+      <Choices correct="true">Radiculomedullary artery</Choices>
+      <Choices correct="false">Type I bronchial artery</Choices>
+      <Choices correct="false">Type II bronchial artery</Choices>
+      <Choices correct="false">Type III bronchial artery</Choices>
+      <Choices correct="false">Type IV bronchial artery</Choices>
+      <Choices correct="false">Intercostobrachial trunk</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The radiculomedullary artery most commonly arises from where?</Question>
+    <ID>39</ID>
+    <Answers>
+      <Choices correct="true">T8-T11</Choices>
+      <Choices correct="false">T2-T4</Choices>
+      <Choices correct="false">T4-T8</Choices>
+      <Choices correct="false">T11-T12</Choices>
+      <Choices correct="false">T12-L2</Choices>
+      <Choices correct="false">L2-L4</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The radiculomedullary artery appears how angiographically?</Question>
+    <ID>40</ID>
+    <Answers>
+      <Choices correct="true">Hairpin loop</Choices>
+      <Choices correct="false">Corkscrew</Choices>
+      <Choices correct="false">Tangled web</Choices>
+      <Choices correct="false">Linear artery extending from the midline to right</Choices>
+      <Choices correct="false">Linear artery extending from the midline to left</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Bronchial arteries most commonly arise at what level?</Question>
+    <ID>41</ID>
+    <Answers>
+      <Choices correct="true">T5-T6</Choices>
+      <Choices correct="false">T2-T4</Choices>
+      <Choices correct="false">T6-T8</Choices>
+      <Choices correct="false">T8-T12</Choices>
+      <Choices correct="false">T12-L2</Choices>
+      <Choices correct="false">L2-L4</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which landmark is helpful for identifying the bronchial arteries?</Question>
+    <ID>42</ID>
+    <Answers>
+      <Choices correct="true">Left mainstem bronchus</Choices>
+      <Choices correct="false">Aortic arch</Choices>
+      <Choices correct="false">Esophagus</Choices>
+      <Choices correct="false">Trachea</Choices>
+      <Choices correct="false">Right mainstem bronchus</Choices>
+      <Choices correct="false">Gastric bubble</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What type of embolic agent should be used to embolize bronchial arteries?</Question>
+    <ID>43</ID>
+    <Answers>
+      <Choices correct="true">Particles</Choices>
+      <Choices correct="false">Ethiodized oil</Choices>
+      <Choices correct="false">Thrombin</Choices>
+      <Choices correct="false">Alcohol</Choices>
+      <Choices correct="false">Onyx</Choices>
+      <Choices correct="false">Coils</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What size particles should be used to embolize bronchial arteries?</Question>
+    <ID>44</ID>
+    <Answers>
+      <Choices correct="false">&lt;100 μm</Choices>
+      <Choices correct="false">100-200 μm</Choices>
+      <Choices correct="false">200-300 μm</Choices>
+      <Choices correct="false">300-500 μm</Choices>
+      <Choices correct="true">500-700 μm</Choices>
+      <Choices correct="false">&gt;1000 μm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the management of tunneled catheter with overlying skin cellulitis?</Question>
+    <ID>45</ID>
+    <Answers>
+      <Choices correct="true">Remove catheter</Choices>
+      <Choices correct="false">Leave catheter in place</Choices>
+      <Choices correct="false">Begin oral antibiotics</Choices>
+      <Choices correct="false">Begin intravenous antibiotics</Choices>
+      <Choices correct="false">Begin anticoagulation</Choices>
+      <Choices correct="false">Perform fibrin sheath stripping</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the management of catheter with upper extremity deep venous thrombosis?</Question>
+    <ID>46</ID>
+    <Answers>
+      <Choices correct="true">Leave catheter in place and begin anticoagulation</Choices>
+      <Choices correct="false">Leave catheter in place without anticoagulation</Choices>
+      <Choices correct="false">Begin oral antibiotics</Choices>
+      <Choices correct="false">Begin intravenous antibiotics</Choices>
+      <Choices correct="false">Remove catheter</Choices>
+      <Choices correct="false">Perform fibrin sheath stripping</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the management of catheter-associated tip thrombi?</Question>
+    <ID>47</ID>
+    <Answers>
+      <Choices correct="true">Leave catheter in place without anticoagulation</Choices>
+      <Choices correct="false">Leave catheter in place and begin anticoagulation</Choices>
+      <Choices correct="false">Begin oral antibiotics</Choices>
+      <Choices correct="false">Begin intravenous antibiotics</Choices>
+      <Choices correct="false">Remove catheter</Choices>
+      <Choices correct="false">Perform fibrin sheath stripping</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>When should special attention be given to catheter-associated tip thrombi?</Question>
+    <ID>48</ID>
+    <Answers>
+      <Choices correct="true">Patients with patent foramen ovale</Choices>
+      <Choices correct="false">Patients with upper extremity deep venous thrombosis</Choices>
+      <Choices correct="false">Patients with tunneled dialysis catheters</Choices>
+      <Choices correct="false">Patients with pheresis catheters</Choices>
+      <Choices correct="false">Patients with right heart strain</Choices>
+      <Choices correct="false">Patients with left to right cardiac shunts</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is most suggestive of a central venous catheter-associated fibrin sheath?</Question>
+    <ID>49</ID>
+    <Answers>
+      <Choices correct="true">Catheter flushes, but does not aspirate</Choices>
+      <Choices correct="false">Bleeding at access site</Choices>
+      <Choices correct="false">Swelling at access site</Choices>
+      <Choices correct="false">Catheter aspirates, but does not flush</Choices>
+      <Choices correct="false">Catheter does not flush or aspirate</Choices>
+      <Choices correct="false">Catheter functions normally</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the first step in evaluation of a malfunctioning central venous catheter?</Question>
+    <ID>50</ID>
+    <Answers>
+      <Choices correct="true">Obtain a chest radiograph</Choices>
+      <Choices correct="false">Obtain computed tomography of the chest</Choices>
+      <Choices correct="false">Perform tissue plasminogen activator dwell</Choices>
+      <Choices correct="false">Perform tissue plasminogen activator infusion</Choices>
+      <Choices correct="false">Perform fibrin sheath stripping</Choices>
+      <Choices correct="false">Exchange catheter</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the appropriate dose of tissue plasminogen activator for dwell to treat an occluded central venous catheter?</Question>
+    <ID>51</ID>
+    <Answers>
+      <Choices correct="false">0.5 mg/mL for 1 mL</Choices>
+      <Choices correct="false">1 mg/mL for 1 mL</Choices>
+      <Choices correct="true">1 mg/mL for 2 mL</Choices>
+      <Choices correct="false">1 mg/mL for 5 mL</Choices>
+      <Choices correct="false">5 mg/mL for 5 mL</Choices>
+      <Choices correct="false">5 mg/mL for 10 mL</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the appropriate time for tissue plasminogen activator dwell to treat an occluded central venous catheter?</Question>
+    <ID>52</ID>
+    <Answers>
+      <Choices correct="false">5 minutes</Choices>
+      <Choices correct="false">10 minutes</Choices>
+      <Choices correct="false">20-30 minutes</Choices>
+      <Choices correct="true">30-60 minutes</Choices>
+      <Choices correct="false">60-120 minutes</Choices>
+      <Choices correct="false">&gt;120 minutes</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the appropriate angioplasty diameter for the popliteal vein?</Question>
+    <ID>53</ID>
+    <Answers>
+      <Choices correct="false">2-4 mm</Choices>
+      <Choices correct="false">4-8 mm</Choices>
+      <Choices correct="true">8-10 mm</Choices>
+      <Choices correct="false">10-12 mm</Choices>
+      <Choices correct="false">12-14 mm</Choices>
+      <Choices correct="false">14-16 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the appropriate angioplasty diameter for the common femoral vein?</Question>
+    <ID>54</ID>
+    <Answers>
+      <Choices correct="false">2-4 mm</Choices>
+      <Choices correct="false">4-8 mm</Choices>
+      <Choices correct="false">8-10 mm</Choices>
+      <Choices correct="true">10-12 mm</Choices>
+      <Choices correct="false">12-14 mm</Choices>
+      <Choices correct="false">14-16 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the appropriate angioplasty diameter for the external iliac vein?</Question>
+    <ID>55</ID>
+    <Answers>
+      <Choices correct="false">2-4 mm</Choices>
+      <Choices correct="false">4-8 mm</Choices>
+      <Choices correct="false">8-10 mm</Choices>
+      <Choices correct="false">10-12 mm</Choices>
+      <Choices correct="true">12-14 mm</Choices>
+      <Choices correct="false">14-16 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the appropriate angioplasty diameter for the common iliac vein?</Question>
+    <ID>56</ID>
+    <Answers>
+      <Choices correct="false">2-4 mm</Choices>
+      <Choices correct="false">4-8 mm</Choices>
+      <Choices correct="false">8-10 mm</Choices>
+      <Choices correct="false">10-12 mm</Choices>
+      <Choices correct="false">12-14 mm</Choices>
+      <Choices correct="true">14-16 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>F</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is NOT considered a permanent embolic agent?</Question>
+    <ID>57</ID>
+    <Answers>
+      <Choices correct="true">Gel foam</Choices>
+      <Choices correct="false">Embospheres</Choices>
+      <Choices correct="false">Amplatzer plug</Choices>
+      <Choices correct="false">Detachable coils</Choices>
+      <Choices correct="false">Onyx</Choices>
+      <Choices correct="false">Alcohol</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>How should coils be chosen based on pre-deployment arteriogram measurements to prevent migration?</Question>
+    <ID>58</ID>
+    <Answers>
+      <Choices correct="false">Sized 20-30% smaller</Choices>
+      <Choices correct="false">Sized 10-20% smaller</Choices>
+      <Choices correct="false">Same size as arteriogram vessel</Choices>
+      <Choices correct="false">Sized 0-10% larger</Choices>
+      <Choices correct="false">Sized 10-20% larger</Choices>
+      <Choices correct="true">Sized 20-30% larger</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>F</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>In regards to glue, ethiodized oil _________ viscosity and _________ polymerization?</Question>
+    <ID>59</ID>
+    <Answers>
+      <Choices correct="true">Reduces; extends</Choices>
+      <Choices correct="false">Reduces; reduces</Choices>
+      <Choices correct="false">Reduces; does not affect</Choices>
+      <Choices correct="false">Increases; reduces</Choices>
+      <Choices correct="false">Increases; extends</Choices>
+      <Choices correct="false">Increases, does not affect</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Extensive use of sodium tetradecyl sulfate causes increased risk of what potential complication?</Question>
+    <ID>60</ID>
+    <Answers>
+      <Choices correct="true">Hemoglobinuria</Choices>
+      <Choices correct="false">Tumor lysis syndrome</Choices>
+      <Choices correct="false">Post embolization syndrome</Choices>
+      <Choices correct="false">Stroke</Choices>
+      <Choices correct="false">Sepsis</Choices>
+      <Choices correct="false">Recanalization</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>“Massive” hemoptysis is defined as what?</Question>
+    <ID>61</ID>
+    <Answers>
+      <Choices correct="true">A defined amount in 24 hours</Choices>
+      <Choices correct="false">A subjective clinical diagnosis</Choices>
+      <Choices correct="false">Any hemoptysis that results in symptoms</Choices>
+      <Choices correct="false">A defined amount in 12 hours</Choices>
+      <Choices correct="false">A defined amount in 36 hours</Choices>
+      <Choices correct="false">Not an indication for bronchial artery embolization</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>“Massive” pulmonary embolism (PE) is defined as…?</Question>
+    <ID>62</ID>
+    <Answers>
+      <Choices correct="true">Acute PE with sustained hypotension</Choices>
+      <Choices correct="false">Acute PE with sustained tachycardia</Choices>
+      <Choices correct="false">Acute PE with involvement of the main pulmonary artery</Choices>
+      <Choices correct="false">Acute PE with any degree of right heart strain</Choices>
+      <Choices correct="false">Acute PE with elevated troponins</Choices>
+      <Choices correct="false">Acute PE with RV:LV ratio &gt;0.9</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which EKG finding requires cardiology to place a transvenous pacer prior to a pulmonary arterial intervention?</Question>
+    <ID>63</ID>
+    <Answers>
+      <Choices correct="true">Left bundle branch block</Choices>
+      <Choices correct="false">Atrial fibrillation</Choices>
+      <Choices correct="false">ST-depression</Choices>
+      <Choices correct="false">ST-elevation</Choices>
+      <Choices correct="false">Second degree atrioventricular block</Choices>
+      <Choices correct="false">Right bundle branch block</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the definition of moderate pulmonary hypertension ?</Question>
+    <ID>64</ID>
+    <Answers>
+      <Choices correct="false">15-20 mmHg</Choices>
+      <Choices correct="false">20-25 mmHg</Choices>
+      <Choices correct="false">25-30 mmHg</Choices>
+      <Choices correct="true">30-35 mmHg </Choices>
+      <Choices correct="false">35-40 mmHg</Choices>
+      <Choices correct="false">40-45 mmHg</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What pulmonary arterial pressure is a contraindication for pulmonary arteriography?</Question>
+    <ID>65</ID>
+    <Answers>
+      <Choices correct="false">45 mmHg</Choices>
+      <Choices correct="false">50 mmHg</Choices>
+      <Choices correct="false">60 mmHg</Choices>
+      <Choices correct="true">70 mmHg </Choices>
+      <Choices correct="false">80 mmHg</Choices>
+      <Choices correct="false">90 mmHg</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the recommended injection rate for the main right and left pulmonary arteries?</Question>
+    <ID>66</ID>
+    <Answers>
+      <Choices correct="false">15 mL/s for 15 mL</Choices>
+      <Choices correct="false">15 mL/s for 30 mL</Choices>
+      <Choices correct="false">20 mL/s for 20 mL</Choices>
+      <Choices correct="false">20 mL/s for 40 mL </Choices>
+      <Choices correct="true">25 mL/s for 25 mL</Choices>
+      <Choices correct="false">25 mL/s for 50 mL</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Cavography prior to inferior vena cava filter placement is assessment for what?</Question>
+    <ID>67</ID>
+    <Answers>
+      <Choices correct="false">Caval thrombus</Choices>
+      <Choices correct="false">Caval vascular abnormalities</Choices>
+      <Choices correct="false">Caval diameter</Choices>
+      <Choices correct="false">Accessory renal veins </Choices>
+      <Choices correct="false">A, B, and C</Choices>
+      <Choices correct="true">A, B, C, and D</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>F</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The inferior vena cava filter hook should be placed where?</Question>
+    <ID>68</ID>
+    <Answers>
+      <Choices correct="false">2 cm above renal veins</Choices>
+      <Choices correct="false">1 cm above renal veins</Choices>
+      <Choices correct="false">At level of renal veins</Choices>
+      <Choices correct="true">1 cm below renal veins </Choices>
+      <Choices correct="false">2 cm below renal veins</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>In regards to inferior vena cava filter retrieval, which is NOT true?</Question>
+    <ID>69</ID>
+    <Answers>
+      <Choices correct="true">Warfarin should be held for 48-72 hours prior to simple filter retrieval</Choices>
+      <Choices correct="false">Patients with filters placed for venous thromboembolism prophylaxis should undergo imaging of the lower-extremity veins (duplex venous ultrasound) prior to filter retrieval</Choices>
+      <Choices correct="false">Patients taking warfarin should have a stable international normalized ratio and no evidence of bleeding for at least 7 days</Choices>
+      <Choices correct="false">If a patient is therapeutically anticoagulated and has no signs or symptoms of new, recurrent, or progressive venous thromboembolism, no additional imaging is required</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is true regarding infra-popliteal deep venous thrombosis?</Question>
+    <ID>70</ID>
+    <Answers>
+      <Choices correct="true">Patients should be followed with ultrasound every two weeks to assess for propagation </Choices>
+      <Choices correct="false">Low risk patients should be started on anticoagulation</Choices>
+      <Choices correct="false">Inferior vena cava filter placement is indicated</Choices>
+      <Choices correct="false">Does not require any further work up or intervention</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is true regarding saphenous vein thrombosis?</Question>
+    <ID>71</ID>
+    <Answers>
+      <Choices correct="true">Approximately 15% will propagate</Choices>
+      <Choices correct="false">Requires anticoagulation for 1 year</Choices>
+      <Choices correct="false">Thrombus within 3 cm of the saphenofemoral junction is considered analogous to deep venous thrombosis</Choices>
+      <Choices correct="false">Stripping the vein is NOT a viable alternative </Choices>
+      <Choices correct="false">Iliac vein inferior vena cava filter placement is indicated</Choices>
+      <Choices correct="false">Is a strong predictor for development of subsequent deep venous thrombosis</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Known side-effects of the AngioJet thrombectomy device include which of these?</Question>
+    <ID>72</ID>
+    <Answers>
+      <Choices correct="false">Bradycardia</Choices>
+      <Choices correct="false">Hemoglobinuria</Choices>
+      <Choices correct="false">Rigors</Choices>
+      <Choices correct="false">A and B</Choices>
+      <Choices correct="false">A and C</Choices>
+      <Choices correct="true">A, B, and C</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>F</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Development of bradycardia while using AngioJet thrombectomy device...?</Question>
+    <ID>73</ID>
+    <Answers>
+      <Choices correct="true">Is related to release of adenosine</Choices>
+      <Choices correct="false">Is an absolute contraindication to further treatment</Choices>
+      <Choices correct="false">Requires addition of 0.05 mg/kg tissue plasminogen activator to the saline solution </Choices>
+      <Choices correct="false">Should prompt the patient be given 1 mg epinephrine every 3-5 minutes until resolution</Choices>
+      <Choices correct="false">Is a normal finding when being used in the pulmonary arteries</Choices>
+      <Choices correct="false">Is most commonly related to pulmonary embolism</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Post-thrombotic syndrome is related to what?</Question>
+    <ID>74</ID>
+    <Answers>
+      <Choices correct="false">Venous valvular damage and resultant reflux</Choices>
+      <Choices correct="false">Ongoing venous obstruction related to incomplete thrombus clearance</Choices>
+      <Choices correct="false">Ambulatory venous hypertension </Choices>
+      <Choices correct="false">Development of acute on chronic deep venous thrombosis</Choices>
+      <Choices correct="false">A and D</Choices>
+      <Choices correct="true">A, B, and C</Choices>
+      <Choices correct="false">B, C, and D</Choices>
+      <Choices correct="false">A, B, C, and D</Choices>
+    </Answers>
+    <Answer>F</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Symptoms of post-thrombotic syndrome include the following EXCEPT what?</Question>
+    <ID>75</ID>
+    <Answers>
+      <Choices correct="true">Hemoglobinuria</Choices>
+      <Choices correct="false">Chronic swelling</Choices>
+      <Choices correct="false">Heaviness</Choices>
+      <Choices correct="false">Venous claudication </Choices>
+      <Choices correct="false">Venous ulcers</Choices>
+      <Choices correct="false">Subcutaneous fibrosis</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>May-Thurner Syndrome is what?</Question>
+    <ID>76</ID>
+    <Answers>
+      <Choices correct="true">Compression of the left iliac vein by the right iliac artery</Choices>
+      <Choices correct="false">Compression of the left iliac vein by the left iliac artery</Choices>
+      <Choices correct="false">Compression of the right iliac vein by the right iliac artery </Choices>
+      <Choices correct="false">Compression of the right iliac vein by the left iliac artery</Choices>
+      <Choices correct="false">Compression of the inferior vena cava by the left iliac artery</Choices>
+      <Choices correct="false">Compression of the inferior vena cava by the right iliac artery</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Bi-directional flow between the deep and superficial venous systems of the lower extremities is what?</Question>
+    <ID>77</ID>
+    <Answers>
+      <Choices correct="true">A normal finding</Choices>
+      <Choices correct="false">Seen in the presence of acute deep venous thrombosis </Choices>
+      <Choices correct="false">Seen with chronic venous reflux </Choices>
+      <Choices correct="false">Seen following incomplete great saphenous vein ablation</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Under the CEAP system, a patient with clinical findings of small varicose veins is classified as what?</Question>
+    <ID>78</ID>
+    <Answers>
+      <Choices correct="false">C0</Choices>
+      <Choices correct="true">C1</Choices>
+      <Choices correct="false">C2 </Choices>
+      <Choices correct="false">C3</Choices>
+      <Choices correct="false">C4</Choices>
+      <Choices correct="false">C5</Choices>
+      <Choices correct="false">C6</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Regarding paracentesis, albumin should be given after removal of how many liters of fluid?</Question>
+    <ID>79</ID>
+    <Answers>
+      <Choices correct="false">1</Choices>
+      <Choices correct="false">2</Choices>
+      <Choices correct="false">3</Choices>
+      <Choices correct="true">5</Choices>
+      <Choices correct="false">10</Choices>
+      <Choices correct="false">15</Choices>
+      <Choices correct="false">20</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>How much albumen should be given after paracentesis?</Question>
+    <ID>80</ID>
+    <Answers>
+      <Choices correct="true">1 gram for every 1 liter over 5 liters</Choices>
+      <Choices correct="false">2 grams for every 1 liter over 5 liters</Choices>
+      <Choices correct="false">3 grams for every 1 liter over 5 liters</Choices>
+      <Choices correct="false">1 gram for every 5 liters over 5 liters</Choices>
+      <Choices correct="false">2 grams for every 5 liters over 5 liters</Choices>
+      <Choices correct="false">3 grams for every 5 liters over 5 liters</Choices>
+      <Choices correct="false">10 grams total</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the purpose of albumin after paracentesis?</Question>
+    <ID>81</ID>
+    <Answers>
+      <Choices correct="true">To prevent elevated renal function and renal failure</Choices>
+      <Choices correct="false">To prevent elevated liver enzymes and liver failure</Choices>
+      <Choices correct="false">To lower the risk of hepatic encephalopathy</Choices>
+      <Choices correct="false">To lower the risk of gastrointestinal bleeding</Choices>
+      <Choices correct="false">To lower the risk of disseminated intravascular coagulation</Choices>
+      <Choices correct="false">There is little evidence to support use of albumin with paracentesis</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the maximum amount of fluid that should be removed during thoracentesis?</Question>
+    <ID>82</ID>
+    <Answers>
+      <Choices correct="false">0.5 liters</Choices>
+      <Choices correct="false">1 liter</Choices>
+      <Choices correct="true">1.5 liters</Choices>
+      <Choices correct="false">2 liters</Choices>
+      <Choices correct="false">5 liters</Choices>
+      <Choices correct="false">There is no maximum amount if careful attention is paid to the clinical status of the patient</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Fluid removal during thoracentesis is limited due to risk of what?</Question>
+    <ID>83</ID>
+    <Answers>
+      <Choices correct="true">Re-expansion pulmonary edema</Choices>
+      <Choices correct="false">Pneumothorax</Choices>
+      <Choices correct="false">Re-expansion pleural effusion</Choices>
+      <Choices correct="false">Electrolyte imbalances</Choices>
+      <Choices correct="false">Elevated renal function and renal failure</Choices>
+      <Choices correct="false">There are no substantial risks associated with fluid removal during thoracentesis</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Under the CEAP system, a patient with clinical findings of small varicose veins is classified as what?</Question>
+    <ID>84</ID>
+    <Answers>
+      <Choices correct="false">C0</Choices>
+      <Choices correct="true">C1</Choices>
+      <Choices correct="false">C2 </Choices>
+      <Choices correct="false">C3</Choices>
+      <Choices correct="false">C4</Choices>
+      <Choices correct="false">C5</Choices>
+      <Choices correct="false">C6</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Under the CEAP system, a patient with clinical findings of large varicose veins is classified as what?</Question>
+    <ID>85</ID>
+    <Answers>
+      <Choices correct="false">C0</Choices>
+      <Choices correct="false">C1</Choices>
+      <Choices correct="true">C2 </Choices>
+      <Choices correct="false">C3</Choices>
+      <Choices correct="false">C4</Choices>
+      <Choices correct="false">C5</Choices>
+      <Choices correct="false">C6</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Under the CEAP system, a patient with clinical findings of edema is classified as what?</Question>
+    <ID>86</ID>
+    <Answers>
+      <Choices correct="false">C0</Choices>
+      <Choices correct="false">C1</Choices>
+      <Choices correct="false">C2 </Choices>
+      <Choices correct="true">C3</Choices>
+      <Choices correct="false">C4</Choices>
+      <Choices correct="false">C5</Choices>
+      <Choices correct="false">C6</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Under the CEAP system, a patient with clinical findings of skin changes without ulceration is classified as?</Question>
+    <ID>87</ID>
+    <Answers>
+      <Choices correct="false">C0</Choices>
+      <Choices correct="false">C1</Choices>
+      <Choices correct="false">C2 </Choices>
+      <Choices correct="false">C3</Choices>
+      <Choices correct="true">C4</Choices>
+      <Choices correct="false">C5</Choices>
+      <Choices correct="false">C6</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Under the CEAP system, a patient with clinical findings of skin changes with healed ulceration is classified as...?</Question>
+    <ID>88</ID>
+    <Answers>
+      <Choices correct="false">C0</Choices>
+      <Choices correct="false">C1</Choices>
+      <Choices correct="false">C2 </Choices>
+      <Choices correct="false">C3</Choices>
+      <Choices correct="false">C4</Choices>
+      <Choices correct="true">C5</Choices>
+      <Choices correct="false">C6</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>F</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Under the CEAP system, a patient with clinical findings of skin changes with active ulceration is classified as...?</Question>
+    <ID>89</ID>
+    <Answers>
+      <Choices correct="false">C0</Choices>
+      <Choices correct="false">C1</Choices>
+      <Choices correct="false">C2 </Choices>
+      <Choices correct="false">C3</Choices>
+      <Choices correct="false">C4</Choices>
+      <Choices correct="false">C5</Choices>
+      <Choices correct="true">C6</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>G</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Ultrasound evaluation for venous valvular competency in the thigh involves...?</Question>
+    <ID>90</ID>
+    <Answers>
+      <Choices correct="true">Valsalva maneuvers</Choices>
+      <Choices correct="false">Graded ultrasound compression</Choices>
+      <Choices correct="false">Limb compression</Choices>
+      <Choices correct="false">Color doppler imaging </Choices>
+      <Choices correct="false">Intravascular ultrasound</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Ultrasound evaluation for venous valvular competency in the lower leg involves what?</Question>
+    <ID>91</ID>
+    <Answers>
+      <Choices correct="true">Limb compression</Choices>
+      <Choices correct="false">Graded ultrasound compression</Choices>
+      <Choices correct="false">Color doppler imaging </Choices>
+      <Choices correct="false">Valsalva maneuver</Choices>
+      <Choices correct="false">Intravascular ultrasound</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Compression stockings for CEAP category 2 or 3 should be...?</Question>
+    <ID>92</ID>
+    <Answers>
+      <Choices correct="false">10-20 mmHg</Choices>
+      <Choices correct="true">20-30 mmHg</Choices>
+      <Choices correct="false">30-40 mmHg </Choices>
+      <Choices correct="false">40-50 mmHg</Choices>
+      <Choices correct="false">50-60 mmHg</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Compression stockings for CEAP category 4 to 6 should be...?</Question>
+    <ID>93</ID>
+    <Answers>
+      <Choices correct="false">10-20 mmHg</Choices>
+      <Choices correct="false">20-30 mmHg</Choices>
+      <Choices correct="true">30-40 mmHg </Choices>
+      <Choices correct="false">40-50 mmHg</Choices>
+      <Choices correct="false">50-60 mmHg</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Compression stockings for recurrent ulcers should be...?</Question>
+    <ID>94</ID>
+    <Answers>
+      <Choices correct="false">10-20 mmHg</Choices>
+      <Choices correct="false">20-30 mmHg</Choices>
+      <Choices correct="false">30-40 mmHg </Choices>
+      <Choices correct="true">40-50 mmHg</Choices>
+      <Choices correct="false">50-60 mmHg</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The risk of re-expansion pulmonary edema after thoracentesis is...?</Question>
+    <ID>95</ID>
+    <Answers>
+      <Choices correct="false">&lt;1%</Choices>
+      <Choices correct="true">1%</Choices>
+      <Choices correct="false">5-10%</Choices>
+      <Choices correct="false">10-20%</Choices>
+      <Choices correct="false">25-50%</Choices>
+      <Choices correct="false">&gt;50%</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The risk of pneumothorax after thoracentesis is...?</Question>
+    <ID>96</ID>
+    <Answers>
+      <Choices correct="false">&lt;1%</Choices>
+      <Choices correct="false">1%</Choices>
+      <Choices correct="true">5-10%</Choices>
+      <Choices correct="false">10-20%</Choices>
+      <Choices correct="false">25-50%</Choices>
+      <Choices correct="false">&gt;50%</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>A left upper quadrant collection after splenectomy should raise concern for...?</Question>
+    <ID>97</ID>
+    <Answers>
+      <Choices correct="true">Pancreatic injury</Choices>
+      <Choices correct="false">Diagraphmatic injury</Choices>
+      <Choices correct="false">Enterocutaneous fistula</Choices>
+      <Choices correct="false">Biliary injury</Choices>
+      <Choices correct="false">Small bowel injury</Choices>
+      <Choices correct="false">Large bowel injury</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Hematuria after renal biopsy should raise concern for...?</Question>
+    <ID>98</ID>
+    <Answers>
+      <Choices correct="true">Pseudoanseurym</Choices>
+      <Choices correct="false">Perinepheric hematoma</Choices>
+      <Choices correct="false">Retroperitoneal hematoma</Choices>
+      <Choices correct="false">Renal abscess</Choices>
+      <Choices correct="false">Arterial dissection</Choices>
+      <Choices correct="false">Venous dissection</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Hematocrit drop after partial nephrectomy should raise concern for...?</Question>
+    <ID>99</ID>
+    <Answers>
+      <Choices correct="true">Arteriovenous fistula</Choices>
+      <Choices correct="false">Perinepheric hematoma</Choices>
+      <Choices correct="false">Retroperitoneal hematoma</Choices>
+      <Choices correct="false">Renal abscess</Choices>
+      <Choices correct="false">Arterial dissection</Choices>
+      <Choices correct="false">Venous dissection</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is NOT an indication for biliary drainage?</Question>
+    <ID>100</ID>
+    <Answers>
+      <Choices correct="true">Biliary obstruction</Choices>
+      <Choices correct="false">Uncontrollable pruititis</Choices>
+      <Choices correct="false">Cholangitis</Choices>
+      <Choices correct="false">Reduction in bilirubin prior to chemotherapy</Choices>
+      <Choices correct="false">All are indications for biliary drainage</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>In general, right-sided biliary drainage is performed under...?</Question>
+    <ID>101</ID>
+    <Answers>
+      <Choices correct="true">Fluoroscopic-guidance</Choices>
+      <Choices correct="false">Blindly</Choices>
+      <Choices correct="false">Ultrasound-guidance</Choices>
+      <Choices correct="false">Computed tomography-guidance</Choices>
+      <Choices correct="false">Magnetic resonance-guidance</Choices>
+      <Choices correct="false">None of the above</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>1</NOTA>
+  </Questions>
+  <Questions>
+    <Question>In general, left-sided biliary drainage is performed under what?</Question>
+    <ID>102</ID>
+    <Answers>
+      <Choices correct="true">Ultrasound-guidance</Choices>
+      <Choices correct="false">Blindly</Choices>
+      <Choices correct="false">Fluoroscopic-guidance</Choices>
+      <Choices correct="false">Computed tomography-guidance</Choices>
+      <Choices correct="false">Magnetic resonance-guidance</Choices>
+      <Choices correct="false">None of the above</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>1</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Normal inferior vena cava diameter is considered...?</Question>
+    <ID>103</ID>
+    <Answers>
+      <Choices correct="false">&lt;15 mm</Choices>
+      <Choices correct="false">&lt;20 mm</Choices>
+      <Choices correct="true">&lt;28 mm</Choices>
+      <Choices correct="false">&lt;35 mm</Choices>
+      <Choices correct="false">&lt;45 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which of the following inferior vena cava filters may be placed when the caval diameter is &gt;28 mm?</Question>
+    <ID>104</ID>
+    <Answers>
+      <Choices correct="true">Bird's Nest</Choices>
+      <Choices correct="false">Günther Tulip</Choices>
+      <Choices correct="false">Argon Option</Choices>
+      <Choices correct="false">Denali</Choices>
+      <Choices correct="false">OPTEASE</Choices>
+      <Choices correct="false">Recovery</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is accepted absolute indication for inferior vena cava filter placement?</Question>
+    <ID>105</ID>
+    <Answers>
+      <Choices correct="true">Bleeding complication while on anticoagulation in patient with venous thromboembolism</Choices>
+      <Choices correct="false">Limited cardiopulmonary reserve</Choices>
+      <Choices correct="false">Large thrombus burden</Choices>
+      <Choices correct="false">Free floating deep venous thrombosis</Choices>
+      <Choices correct="false">Thrombolysis for iliocaval deep venous thrombosis</Choices>
+      <Choices correct="false">Trauma patient</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is accepted absolute contraindication for inferior vena cava filter placement?</Question>
+    <ID>106</ID>
+    <Answers>
+      <Choices correct="true">Complete iliocaval thrombosis</Choices>
+      <Choices correct="false">Septic emboli</Choices>
+      <Choices correct="false">Pregnancy</Choices>
+      <Choices correct="false">Adolescent age</Choices>
+      <Choices correct="false">Severe hypercoagulable state</Choices>
+      <Choices correct="false">Trauma patient</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the most commonly seen abnormality inferior vena cava abnormality?</Question>
+    <ID>107</ID>
+    <Answers>
+      <Choices correct="true">Circumaortic left renal vein</Choices>
+      <Choices correct="false">Azygos continuation</Choices>
+      <Choices correct="false">Inferior vena cava duplication</Choices>
+      <Choices correct="false">Isolated left inferior vena cava</Choices>
+      <Choices correct="false">Circumcaval ureter</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which of the following is TRUE regarding inferior vena cava filter placement?</Question>
+    <ID>108</ID>
+    <Answers>
+      <Choices correct="true">Place infrarenal if possible</Choices>
+      <Choices correct="false">Suprarenal placement is acceptable for documented upper extremity deep venous thrombosis</Choices>
+      <Choices correct="false">Superior vena cava filter placement may be considered in obese patients</Choices>
+      <Choices correct="false">Consider placing two filters in patients with azygous continuation</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What of the following is an FDA-approved permanent inferior vena cava filter?</Question>
+    <ID>109</ID>
+    <Answers>
+      <Choices correct="true">TRAPEASE</Choices>
+      <Choices correct="false">Günther Tulip </Choices>
+      <Choices correct="false">Argon Option</Choices>
+      <Choices correct="false">Bard Denali</Choices>
+      <Choices correct="false">OPTEASE</Choices>
+      <Choices correct="false">Recovery</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What of the following is an FDA-approved temporary inferior vena cava filter?</Question>
+    <ID>110</ID>
+    <Answers>
+      <Choices correct="true">Celect Platinum</Choices>
+      <Choices correct="false">Bird's Nest </Choices>
+      <Choices correct="false">Titanium Greenfield</Choices>
+      <Choices correct="false">Simon Nitinol</Choices>
+      <Choices correct="false">Vena Tech LP</Choices>
+      <Choices correct="false">TRAPEASE</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which of the following helps differentiate temporary from permanent inferior vena cava filters?</Question>
+    <ID>111</ID>
+    <Answers>
+      <Choices correct="true">Presence of a hook</Choices>
+      <Choices correct="false">Presence of arms</Choices>
+      <Choices correct="false">Presence of struts and legs</Choices>
+      <Choices correct="false">Open-cell design</Choices>
+      <Choices correct="false">Closed-cell design</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which of the following studies helps justify inferior vena cava filter placement?</Question>
+    <ID>112</ID>
+    <Answers>
+      <Choices correct="true">PREPIC</Choices>
+      <Choices correct="false">ATTRACT</Choices>
+      <Choices correct="false">PROLONG</Choices>
+      <Choices correct="false">DACUS</Choices>
+      <Choices correct="false">CAVENT</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>With regard to dialysis, high venous pressures during dialysis implies...?</Question>
+    <ID>113</ID>
+    <Answers>
+      <Choices correct="true">Access venous outflow stenosis</Choices>
+      <Choices correct="false">Access central stenosis</Choices>
+      <Choices correct="false">Access arterial anastomotic stenosis</Choices>
+      <Choices correct="false">Steal syndrome</Choices>
+      <Choices correct="false">Access thrombosis</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>With regard to dialysis, low flows during dialysis implies...?</Question>
+    <ID>114</ID>
+    <Answers>
+      <Choices correct="true">Access venous outflow stenosis</Choices>
+      <Choices correct="false">Access central stenosis</Choices>
+      <Choices correct="false">Access arterial anastomotic stenosis</Choices>
+      <Choices correct="false">Steal syndrome</Choices>
+      <Choices correct="false">Access thrombosis</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>With regard to dialysis, </Question>
+    <ID>115</ID>
+    <Answers>
+      <Choices correct="true">Access arterial anastomotic stenosis</Choices>
+      <Choices correct="false">Access central stenosis</Choices>
+      <Choices correct="false">Access venous outflow stenosis</Choices>
+      <Choices correct="false">Steal syndrome</Choices>
+      <Choices correct="false">Access thrombosis</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>With regard to dialysis, hand pain during dialysis implies...?</Question>
+    <ID>116</ID>
+    <Answers>
+      <Choices correct="true">Steal syndrome</Choices>
+      <Choices correct="false">Access central stenosis</Choices>
+      <Choices correct="false">Access venous outflow stenosis</Choices>
+      <Choices correct="false">Access arterial anastomotic stenosis</Choices>
+      <Choices correct="false">Access thrombosis</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>With regard to dialysis, arm swelling during dialysis implies...?</Question>
+    <ID>117</ID>
+    <Answers>
+      <Choices correct="true">Access central stenosis</Choices>
+      <Choices correct="false">Access venous outflow stenosis</Choices>
+      <Choices correct="false">Access arterial anastomotic stenosis</Choices>
+      <Choices correct="false">Steal syndrome</Choices>
+      <Choices correct="false">Access thrombosis</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>With regard to dialysis, normal fistula or graft flow is...?</Question>
+    <ID>118</ID>
+    <Answers>
+      <Choices correct="false">&lt;200 mL/minute</Choices>
+      <Choices correct="false">200-400 mL/minute</Choices>
+      <Choices correct="false">400-600 mL/minute</Choices>
+      <Choices correct="true">800-1,000 mL/minute</Choices>
+      <Choices correct="false">&gt;2,000 mL/minute</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>With regard to dialysis, a failing fistula or graft is suggested with flows of...?</Question>
+    <ID>119</ID>
+    <Answers>
+      <Choices correct="false">&lt;200 mL/minute</Choices>
+      <Choices correct="false">200-400 mL/minute</Choices>
+      <Choices correct="true">400-600 mL/minute</Choices>
+      <Choices correct="false">800-1,000 mL/minute</Choices>
+      <Choices correct="false">&gt;2,000 mL/minute</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>With regard to dialysis, heart failure is a potential risk with flows of...?</Question>
+    <ID>120</ID>
+    <Answers>
+      <Choices correct="false">&lt;200 mL/minute</Choices>
+      <Choices correct="false">200-400 mL/minute</Choices>
+      <Choices correct="false">400-600 mL/minute</Choices>
+      <Choices correct="false">800-1,000 mL/minute</Choices>
+      <Choices correct="true">&gt;2,000 mL/minute</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>With regard to dialysis, what is angioplasty failure considered as?</Question>
+    <ID>121</ID>
+    <Answers>
+      <Choices correct="true">2 failed angioplasties within 3 months</Choices>
+      <Choices correct="false">1 failed angioplasty within 1 month</Choices>
+      <Choices correct="false">2 failed angioplasty within 3 months</Choices>
+      <Choices correct="false">2 failed angioplasties within 1 month</Choices>
+      <Choices correct="false">3 failed angioplasties within 1 month</Choices>
+      <Choices correct="false">3 failed angioplasties within 3 months</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>With regard to dialysis, most venous outflow stenoses should be angioplastied to what?</Question>
+    <ID>122</ID>
+    <Answers>
+      <Choices correct="false">4 mm</Choices>
+      <Choices correct="false">6 mm</Choices>
+      <Choices correct="true">8 mm</Choices>
+      <Choices correct="false">10 mm</Choices>
+      <Choices correct="false">12-14 mm</Choices>
+      <Choices correct="false">14-16 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>With regard to dialysis, most arterial anastomotic stenoses should be angioplastied to what?</Question>
+    <ID>123</ID>
+    <Answers>
+      <Choices correct="false">4 mm</Choices>
+      <Choices correct="true">6 mm</Choices>
+      <Choices correct="false">8 mm</Choices>
+      <Choices correct="false">10 mm</Choices>
+      <Choices correct="false">12-14 mm</Choices>
+      <Choices correct="false">14-16 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>With regard to dialysis, most subclavian/brachiocephalic stenoses should be angioplastied to what?</Question>
+    <ID>124</ID>
+    <Answers>
+      <Choices correct="false">4 mm</Choices>
+      <Choices correct="false">6 mm</Choices>
+      <Choices correct="false">8 mm</Choices>
+      <Choices correct="false">10 mm</Choices>
+      <Choices correct="true">12-14 mm</Choices>
+      <Choices correct="false">14-16 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>With regard to the superior vena cava, angioplasty should be performed to what?</Question>
+    <ID>125</ID>
+    <Answers>
+      <Choices correct="false">4 mm</Choices>
+      <Choices correct="false">6 mm</Choices>
+      <Choices correct="false">8 mm</Choices>
+      <Choices correct="false">10 mm</Choices>
+      <Choices correct="true">12-14 mm</Choices>
+      <Choices correct="false">14-16 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the appropriate contrast volume for hip arthrography?</Question>
+    <ID>126</ID>
+    <Answers>
+      <Choices correct="false">2-3 mL</Choices>
+      <Choices correct="false">5-10 mL</Choices>
+      <Choices correct="true">10-20 mL</Choices>
+      <Choices correct="false">20-30 mL</Choices>
+      <Choices correct="false">30-40 mm</Choices>
+      <Choices correct="false">40-50 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the appropriate contrast volume for shoulder arthrography?</Question>
+    <ID>127</ID>
+    <Answers>
+      <Choices correct="false">2-3 mL</Choices>
+      <Choices correct="false">5-10 mL</Choices>
+      <Choices correct="true">10-20 mL</Choices>
+      <Choices correct="false">20-30 mL</Choices>
+      <Choices correct="false">30-40 mm</Choices>
+      <Choices correct="false">40-50 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the appropriate contrast volume for knee arthrography?</Question>
+    <ID>128</ID>
+    <Answers>
+      <Choices correct="false">2-3 mL</Choices>
+      <Choices correct="false">5-10 mL</Choices>
+      <Choices correct="false">10-20 mL</Choices>
+      <Choices correct="false">20-30 mL</Choices>
+      <Choices correct="false">30-40 mm</Choices>
+      <Choices correct="true">40-50 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>F</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the appropriate contrast volume for wrist arthrography?</Question>
+    <ID>129</ID>
+    <Answers>
+      <Choices correct="true">2-3 mL</Choices>
+      <Choices correct="false">5-10 mL</Choices>
+      <Choices correct="false">10-20 mL</Choices>
+      <Choices correct="false">20-30 mL</Choices>
+      <Choices correct="false">30-40 mm</Choices>
+      <Choices correct="false">40-50 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>To what diameter should angioplasty and stenting be performed of the common bile duct?</Question>
+    <ID>130</ID>
+    <Answers>
+      <Choices correct="false">2 mm</Choices>
+      <Choices correct="false">5 mm</Choices>
+      <Choices correct="true">10 mm</Choices>
+      <Choices correct="false">20 mm</Choices>
+      <Choices correct="false">30 mm</Choices>
+      <Choices correct="false">40 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>In regards to endovenous laser therapy of the great saphenous vein, where should treatment begin?</Question>
+    <ID>131</ID>
+    <Answers>
+      <Choices correct="false">5 cm above the saphenofemoral junction</Choices>
+      <Choices correct="false">1-2  cm above the saphenofemoral junction</Choices>
+      <Choices correct="false">At the saphenofemoral junction</Choices>
+      <Choices correct="true">1-2 cm below the saphenofemoral junction</Choices>
+      <Choices correct="false">5 cm below the saphenofemoral junction</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>In a transjugular intrahepatic portosystemic shunt (TIPS) for refractory ascites, what is the likelihood it will help?</Question>
+    <ID>132</ID>
+    <Answers>
+      <Choices correct="false">0.25</Choices>
+      <Choices correct="false">0.4</Choices>
+      <Choices correct="false">0.65</Choices>
+      <Choices correct="true">0.85</Choices>
+      <Choices correct="false">0.99</Choices>
+      <Choices correct="false">TIPS does not help refractory ascites</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Primary patency of a transjugular intrahepatic portosystemic shunt at 12 months is what?</Question>
+    <ID>133</ID>
+    <Answers>
+      <Choices correct="false">0.25</Choices>
+      <Choices correct="false">0.4</Choices>
+      <Choices correct="false">0.65</Choices>
+      <Choices correct="true">0.85</Choices>
+      <Choices correct="false">0.99</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which are absolute contraindications to transjugular intrahepatic portosystemic shunts?</Question>
+    <ID>134</ID>
+    <Answers>
+      <Choices correct="false">Heart failure</Choices>
+      <Choices correct="false">Severe pulmonary hypertension</Choices>
+      <Choices correct="false">Hepatocellular carcinoma</Choices>
+      <Choices correct="false">Unrelieved biliary obstruction</Choices>
+      <Choices correct="false">Sepsis</Choices>
+      <Choices correct="false">A and B</Choices>
+      <Choices correct="true">A, B, and D</Choices>
+      <Choices correct="false">All of the above</Choices>
+    </Answers>
+    <Answer>G</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the risk of encephalopathy after transjugular intrahepatic portosystemic shunt creation ?</Question>
+    <ID>135</ID>
+    <Answers>
+      <Choices correct="true">0.25</Choices>
+      <Choices correct="false">0.4</Choices>
+      <Choices correct="false">0.65</Choices>
+      <Choices correct="false">0.85</Choices>
+      <Choices correct="false">0.99</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>With a model for end-stage liver disease greater than ___, 3-month survival decreases from 90% to 40%?</Question>
+    <ID>136</ID>
+    <Answers>
+      <Choices correct="false">10</Choices>
+      <Choices correct="false">14</Choices>
+      <Choices correct="true">18</Choices>
+      <Choices correct="false">20</Choices>
+      <Choices correct="false">25</Choices>
+      <Choices correct="false">30</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Following transjugular intrahepatic portosystemic shunt creation, when should ultrasound be performed?</Question>
+    <ID>137</ID>
+    <Answers>
+      <Choices correct="false">In the immediate post-procedure period</Choices>
+      <Choices correct="false">24 hours</Choices>
+      <Choices correct="false">1 week</Choices>
+      <Choices correct="true">1 month</Choices>
+      <Choices correct="false">2 months</Choices>
+      <Choices correct="false">6 months</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>For variceal bleeding, post transjugular intrahepatic portosystemic shunt gradient should be what?</Question>
+    <ID>138</ID>
+    <Answers>
+      <Choices correct="false">&lt; 18 mmHg</Choices>
+      <Choices correct="false">&lt; 15 mmHg</Choices>
+      <Choices correct="true">&lt; 12 mmHg</Choices>
+      <Choices correct="false">&lt; 10 mmHg</Choices>
+      <Choices correct="false">&lt; 8 mmHg</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>For refractory ascites, post transjugular intrahepatic portosystemic shunt gradient should be what?</Question>
+    <ID>139</ID>
+    <Answers>
+      <Choices correct="false">&lt; 18 mmHg</Choices>
+      <Choices correct="false">&lt; 15 mmHg</Choices>
+      <Choices correct="false">&lt; 12 mmHg</Choices>
+      <Choices correct="false">&lt; 10 mmHg</Choices>
+      <Choices correct="true">&lt; 8 mmHg</Choices>
+      <Choices correct="false">Transjugular intrahepatic portosystemic shunt does not improve refractory ascites</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Regarding pseudoaneurysm management, which is injected to cause thrombosis?</Question>
+    <ID>140</ID>
+    <Answers>
+      <Choices correct="true">Thrombin</Choices>
+      <Choices correct="false">Fibrin</Choices>
+      <Choices correct="false">Collagen</Choices>
+      <Choices correct="false">Gel foam</Choices>
+      <Choices correct="false">Particles</Choices>
+      <Choices correct="false">Coils</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Regarding pseudoaneurysm management, what dose of thrombin is used for treatment?</Question>
+    <ID>141</ID>
+    <Answers>
+      <Choices correct="false">0.1 units/mL</Choices>
+      <Choices correct="false">1 units/mL</Choices>
+      <Choices correct="false">10 units/mL</Choices>
+      <Choices correct="false">100 units/mL</Choices>
+      <Choices correct="true">1,000 units/mL</Choices>
+      <Choices correct="false">10,000 units/mL</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Regarding pseudoaneurysm management, what volume of thrombin is typically needed for treatment?</Question>
+    <ID>142</ID>
+    <Answers>
+      <Choices correct="false">0.1 mL</Choices>
+      <Choices correct="true">1 mL</Choices>
+      <Choices correct="false">10 mL</Choices>
+      <Choices correct="false">100 mL</Choices>
+      <Choices correct="false">1,000 mL</Choices>
+      <Choices correct="false">10,000 mL</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Regarding pseudoaneurysm management, what size typically require treatment as they do not thrombose?</Question>
+    <ID>143</ID>
+    <Answers>
+      <Choices correct="false">0.5 cm</Choices>
+      <Choices correct="false">1 cm</Choices>
+      <Choices correct="true">2 cm</Choices>
+      <Choices correct="false">3 cm</Choices>
+      <Choices correct="false">5 cm</Choices>
+      <Choices correct="false">10 cm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Regarding endoleaks, which results from aneurysm sac filling via branch vessels?</Question>
+    <ID>144</ID>
+    <Answers>
+      <Choices correct="false">Type I</Choices>
+      <Choices correct="true">Type II</Choices>
+      <Choices correct="false">Type III</Choices>
+      <Choices correct="false">Type IV</Choices>
+      <Choices correct="false">Type V</Choices>
+      <Choices correct="false">Type VI</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Regarding endoleaks, which results from leakage at the graft attachment sites?</Question>
+    <ID>145</ID>
+    <Answers>
+      <Choices correct="true">Type I</Choices>
+      <Choices correct="false">Type II</Choices>
+      <Choices correct="false">Type III</Choices>
+      <Choices correct="false">Type IV</Choices>
+      <Choices correct="false">Type V</Choices>
+      <Choices correct="false">Type VI</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Regarding endoleaks, which results from aneurysm sac filling via branches of the inferior mesenteric artery?</Question>
+    <ID>146</ID>
+    <Answers>
+      <Choices correct="false">Type I</Choices>
+      <Choices correct="true">Type II</Choices>
+      <Choices correct="false">Type III</Choices>
+      <Choices correct="false">Type IV</Choices>
+      <Choices correct="false">Type V</Choices>
+      <Choices correct="false">Type VI</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Regarding endoleaks, which results from aneurysm sac filling via branches of the iliolumbar artery?</Question>
+    <ID>147</ID>
+    <Answers>
+      <Choices correct="false">Type I</Choices>
+      <Choices correct="true">Type II</Choices>
+      <Choices correct="false">Type III</Choices>
+      <Choices correct="false">Type IV</Choices>
+      <Choices correct="false">Type V</Choices>
+      <Choices correct="false">Type VI</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Regarding endoleaks, which results from leakage through a graft defect?</Question>
+    <ID>148</ID>
+    <Answers>
+      <Choices correct="false">Type I</Choices>
+      <Choices correct="false">Type II</Choices>
+      <Choices correct="true">Type III</Choices>
+      <Choices correct="false">Type IV</Choices>
+      <Choices correct="false">Type V</Choices>
+      <Choices correct="false">Type VI</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Regarding endoleaks, which results from leakage through a graft porosity?</Question>
+    <ID>149</ID>
+    <Answers>
+      <Choices correct="false">Type I</Choices>
+      <Choices correct="false">Type II</Choices>
+      <Choices correct="false">Type III</Choices>
+      <Choices correct="true">Type IV</Choices>
+      <Choices correct="false">Type V</Choices>
+      <Choices correct="false">Type VI</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Regarding endoleaks, which results from expansion of aneurysm sac without leak on imaging?</Question>
+    <ID>150</ID>
+    <Answers>
+      <Choices correct="false">Type I</Choices>
+      <Choices correct="false">Type II</Choices>
+      <Choices correct="false">Type III</Choices>
+      <Choices correct="false">Type IV</Choices>
+      <Choices correct="true">Type V</Choices>
+      <Choices correct="false">Type VI</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Regarding endoleaks, which of the following is also referred to as </Question>
+    <ID>151</ID>
+    <Answers>
+      <Choices correct="false">Type I</Choices>
+      <Choices correct="false">Type II</Choices>
+      <Choices correct="false">Type III</Choices>
+      <Choices correct="false">Type IV</Choices>
+      <Choices correct="true">Type V</Choices>
+      <Choices correct="false">Type VI</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Regarding gastrointestinal bleeding, what role does glucagon play?</Question>
+    <ID>152</ID>
+    <Answers>
+      <Choices correct="true">Reduces bowel motility</Choices>
+      <Choices correct="false">Delays migration of contrast </Choices>
+      <Choices correct="false">Reduces vascular spasm</Choices>
+      <Choices correct="false">Causes vasodilatation</Choices>
+      <Choices correct="false">Increased vascular porosity</Choices>
+      <Choices correct="false">Increases bowel motility</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Regarding gastrointestinal bleeding, what is the typical dose of glucagon?</Question>
+    <ID>153</ID>
+    <Answers>
+      <Choices correct="false">0.1 mg </Choices>
+      <Choices correct="true">1 mg</Choices>
+      <Choices correct="false">10 mg</Choices>
+      <Choices correct="false">100 mg</Choices>
+      <Choices correct="false">1,000 mg</Choices>
+      <Choices correct="false">10,000 mg</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The distal esophagus, gastric cardia, and gastric fundus are supplied by what?</Question>
+    <ID>154</ID>
+    <Answers>
+      <Choices correct="true">Left gastric artery</Choices>
+      <Choices correct="false">Right gastric artery</Choices>
+      <Choices correct="false">Middle gastric artery</Choices>
+      <Choices correct="false">Splenic artery</Choices>
+      <Choices correct="false">Gastroduodenal artery</Choices>
+      <Choices correct="false">Superior mesenteric artery</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The duodenum is supplied by what?</Question>
+    <ID>155</ID>
+    <Answers>
+      <Choices correct="true">Gastroduodenal artery</Choices>
+      <Choices correct="false">Left gastric artery</Choices>
+      <Choices correct="false">Right gastric artery</Choices>
+      <Choices correct="false">Middle gastric artery</Choices>
+      <Choices correct="false">Splenic artery</Choices>
+      <Choices correct="false">Inferior mesenteric artery</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The Arc of Buhler is a collateral pathway between the...?</Question>
+    <ID>156</ID>
+    <Answers>
+      <Choices correct="true">Celiac and superior mesenteric arteries</Choices>
+      <Choices correct="false">Celiac and inferior mesenteric arteries</Choices>
+      <Choices correct="false">Superior and inferior mesenteric arteries</Choices>
+      <Choices correct="false">Superior mesenteric and internal iliac arteries</Choices>
+      <Choices correct="false">Inferior mesenteric and internal iliac arteries</Choices>
+      <Choices correct="false">Superior epigastric and inferior epigastric arteries</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The Arc of Riolan is a collateral pathway between the...?</Question>
+    <ID>157</ID>
+    <Answers>
+      <Choices correct="true">Superior and inferior mesenteric arteries</Choices>
+      <Choices correct="false">Celiac and superior mesenteric arteries</Choices>
+      <Choices correct="false">Celiac and inferior mesenteric arteries</Choices>
+      <Choices correct="false">Superior mesenteric and internal iliac arteries</Choices>
+      <Choices correct="false">Inferior mesenteric and internal iliac arteries</Choices>
+      <Choices correct="false">Superior epigastric and inferior epigastric arteries</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The Marginal Artery of Drummond is a collateral pathway between the...?</Question>
+    <ID>158</ID>
+    <Answers>
+      <Choices correct="true">Superior and inferior mesenteric arteries</Choices>
+      <Choices correct="false">Celiac and superior mesenteric arteries</Choices>
+      <Choices correct="false">Celiac and inferior mesenteric arteries</Choices>
+      <Choices correct="false">Superior mesenteric and internal iliac arteries</Choices>
+      <Choices correct="false">Inferior mesenteric and internal iliac arteries</Choices>
+      <Choices correct="false">Superior epigastric and inferior epigastric arteries</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The Path of Winslow is a collateral pathway between the...?</Question>
+    <ID>159</ID>
+    <Answers>
+      <Choices correct="true">Superior epigastric and inferior epigastric arteries</Choices>
+      <Choices correct="false">Celiac and superior mesenteric arteries</Choices>
+      <Choices correct="false">Celiac and inferior mesenteric arteries</Choices>
+      <Choices correct="false">Superior and inferior mesenteric arteries</Choices>
+      <Choices correct="false">Superior mesenteric and internal iliac arteries</Choices>
+      <Choices correct="false">Inferior mesenteric and internal iliac arteries</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The triad of pelvic claudication, impotence, and absent femoral pulses is known as what?</Question>
+    <ID>160</ID>
+    <Answers>
+      <Choices correct="true">Leriche syndrome</Choices>
+      <Choices correct="false">Lemierre's syndrome</Choices>
+      <Choices correct="false">Post-thrombotic syndrome</Choices>
+      <Choices correct="false">Compartment syndrome</Choices>
+      <Choices correct="false">Kasabach-Merritt syndrome</Choices>
+      <Choices correct="false">Paget-Schroetter syndrome</Choices>
+      <Choices correct="false">Budd-Chiari syndrome</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Thrombophlebitis of the internal jugular veins in the setting of oropharyngeal infection is known as what?</Question>
+    <ID>161</ID>
+    <Answers>
+      <Choices correct="true">Lemierre's syndrome</Choices>
+      <Choices correct="false">Leriche syndrome</Choices>
+      <Choices correct="false">Post-thrombotic syndrome</Choices>
+      <Choices correct="false">Compartment syndrome</Choices>
+      <Choices correct="false">Kasabach-Merritt syndrome</Choices>
+      <Choices correct="false">Paget-Schroetter syndrome</Choices>
+      <Choices correct="false">Budd-Chiari syndrome</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Thrombocytopenia and anemia in the setting of a hemangioma or hemangioendothelioma is known as what?</Question>
+    <ID>162</ID>
+    <Answers>
+      <Choices correct="true">Kasabach-Merritt syndrome</Choices>
+      <Choices correct="false">Lemierre's syndrome</Choices>
+      <Choices correct="false">Leriche syndrome</Choices>
+      <Choices correct="false">Post-thrombotic syndrome</Choices>
+      <Choices correct="false">Compartment syndrome</Choices>
+      <Choices correct="false">Paget-Schroetter syndrome</Choices>
+      <Choices correct="false">Budd-Chiari syndrome</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Triad of ascites, abdominal pain, and hepatomegaly in the setting of obstructed hepatic veins is known as what?</Question>
+    <ID>163</ID>
+    <Answers>
+      <Choices correct="true">Budd-Chiari syndrome</Choices>
+      <Choices correct="false">Lemierre's syndrome</Choices>
+      <Choices correct="false">Leriche syndrome</Choices>
+      <Choices correct="false">Post-thrombotic syndrome</Choices>
+      <Choices correct="false">Compartment syndrome</Choices>
+      <Choices correct="false">Kasabach-Merritt syndrome</Choices>
+      <Choices correct="false">Paget-Schroetter syndrome</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the treatment for Budd-Chiari syndrome?</Question>
+    <ID>164</ID>
+    <Answers>
+      <Choices correct="true">Transjugular intrahepatic portosystemic shunt</Choices>
+      <Choices correct="false">Beta blockers</Choices>
+      <Choices correct="false">Diuretics</Choices>
+      <Choices correct="false">Mechanical thrombectomy</Choices>
+      <Choices correct="false">Pharmacomechanical thrombectomy</Choices>
+      <Choices correct="false">Liver transplantation</Choices>
+      <Choices correct="false">There is no treatment for Budd-Chiari syndrome</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What size transjugular intrahepatic portosystemic shunt should be placed in MOST adult patients?</Question>
+    <ID>165</ID>
+    <Answers>
+      <Choices correct="false">2 mm</Choices>
+      <Choices correct="false">4 mm</Choices>
+      <Choices correct="false">6 mm</Choices>
+      <Choices correct="false">8 mm</Choices>
+      <Choices correct="true">10 mm</Choices>
+      <Choices correct="false">12 mm</Choices>
+      <Choices correct="false">14 mm</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What size transjugular intrahepatic portosystemic shunt should be placed in MOST pediatric patients?</Question>
+    <ID>166</ID>
+    <Answers>
+      <Choices correct="false">2 mm</Choices>
+      <Choices correct="false">4 mm</Choices>
+      <Choices correct="false">6 mm</Choices>
+      <Choices correct="true">8 mm</Choices>
+      <Choices correct="false">10 mm</Choices>
+      <Choices correct="false">12 mm</Choices>
+      <Choices correct="false">14 mm</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The tip of a non-tunneled central line should be placed where?</Question>
+    <ID>167</ID>
+    <Answers>
+      <Choices correct="true">At the cavo-atrial junction</Choices>
+      <Choices correct="false">In the upper superior vena cava</Choices>
+      <Choices correct="false">In the mid-superior vena cava</Choices>
+      <Choices correct="false">In the lower-superior vena cava</Choices>
+      <Choices correct="false">In the right atrium</Choices>
+      <Choices correct="false">In the right ventricle</Choices>
+      <Choices correct="false">In the inferior vena cava</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The tip of a tunneled dialysis catheter should be placed where?</Question>
+    <ID>168</ID>
+    <Answers>
+      <Choices correct="true">In the right atrium</Choices>
+      <Choices correct="false">In the upper superior vena cava</Choices>
+      <Choices correct="false">In the mid-superior vena cava</Choices>
+      <Choices correct="false">In the lower-superior vena cava</Choices>
+      <Choices correct="false">At the cavo-atrial junction</Choices>
+      <Choices correct="false">In the right ventricle</Choices>
+      <Choices correct="false">In the inferior vena cava</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The tip of a peripherally inserted central catheter should be placed where?</Question>
+    <ID>169</ID>
+    <Answers>
+      <Choices correct="true">At the cavo-atrial junction</Choices>
+      <Choices correct="false">In the upper superior vena cava</Choices>
+      <Choices correct="false">In the mid-superior vena cava</Choices>
+      <Choices correct="false">In the lower-superior vena cava</Choices>
+      <Choices correct="false">In the right atrium</Choices>
+      <Choices correct="false">In the right ventricle</Choices>
+      <Choices correct="false">In the inferior vena cava</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is a normal transjugular intrahepatic portosystemic shunt peak systolic velocity on ultrasound?</Question>
+    <ID>170</ID>
+    <Answers>
+      <Choices correct="false">20-30 cm/sec</Choices>
+      <Choices correct="false">30-90 cm/sec</Choices>
+      <Choices correct="true">90-190 cm/sec</Choices>
+      <Choices correct="false">190-290 cm/sec</Choices>
+      <Choices correct="false">290-500 cm/sec</Choices>
+      <Choices correct="false">500-900 cm/sec</Choices>
+      <Choices correct="false">900-1,200 cm/sec</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What peak systolic velocity on ultrasound suggests &gt;70% celiac artery stenosis?</Question>
+    <ID>171</ID>
+    <Answers>
+      <Choices correct="false">&gt;50 cm/sec</Choices>
+      <Choices correct="false">&gt;75 cm/sec</Choices>
+      <Choices correct="false">&gt;100 cm/sec</Choices>
+      <Choices correct="false">&gt;150 cm/sec</Choices>
+      <Choices correct="true">&gt;200 cm/sec</Choices>
+      <Choices correct="false">&gt;250 cm/sec</Choices>
+      <Choices correct="false">&gt;275 cm/sec</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What peak systolic velocity on ultrasound suggests &gt;70% superior mesenteric artery stenosis?</Question>
+    <ID>172</ID>
+    <Answers>
+      <Choices correct="false">&gt;50 cm/sec</Choices>
+      <Choices correct="false">&gt;75 cm/sec</Choices>
+      <Choices correct="false">&gt;100 cm/sec</Choices>
+      <Choices correct="false">&gt;150 cm/sec</Choices>
+      <Choices correct="false">&gt;200 cm/sec</Choices>
+      <Choices correct="false">&gt;250 cm/sec</Choices>
+      <Choices correct="true">&gt;275 cm/sec</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>G</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is a normal internal carotid artery peak systolic velocity on ultrasound?</Question>
+    <ID>173</ID>
+    <Answers>
+      <Choices correct="false">&lt;50 cm/sec</Choices>
+      <Choices correct="false">&lt;75 cm/sec</Choices>
+      <Choices correct="false">&lt;100 cm/sec</Choices>
+      <Choices correct="true">&lt;125 cm/sec</Choices>
+      <Choices correct="false">&lt;150 cm/sec</Choices>
+      <Choices correct="false">&lt;175 cm/sec</Choices>
+      <Choices correct="false">&lt;200 cm/sec</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What peak systolic velocity on ultrasound suggests &gt;70% internal carotid artery stenosis?</Question>
+    <ID>174</ID>
+    <Answers>
+      <Choices correct="false">&gt;50 cm/sec</Choices>
+      <Choices correct="false">&gt;100 cm/sec</Choices>
+      <Choices correct="false">&gt;130 cm/sec</Choices>
+      <Choices correct="false">&gt;190 cm/sec</Choices>
+      <Choices correct="false">&gt;200 cm/sec</Choices>
+      <Choices correct="true">&gt;230 cm/sec</Choices>
+      <Choices correct="false">&gt;300 cm/sec</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>F</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the standard cocktail for renal angiomyolipoma embolization?</Question>
+    <ID>175</ID>
+    <Answers>
+      <Choices correct="true">70% ethanol; 30% lipiodol</Choices>
+      <Choices correct="false">100% ethanol</Choices>
+      <Choices correct="false">100% lipiodol</Choices>
+      <Choices correct="false">50% ethanol; 50% lipiodol</Choices>
+      <Choices correct="false">30% ethanol; 70% lipiodol</Choices>
+      <Choices correct="false">N-butyl cyanoacrylate</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is an alternative to renal angiomyolipoma embolization?</Question>
+    <ID>176</ID>
+    <Answers>
+      <Choices correct="true">100-300 micron particles</Choices>
+      <Choices correct="false">300-500 micron particles</Choices>
+      <Choices correct="false">500-700 micron particles</Choices>
+      <Choices correct="false">700-900 micron particles</Choices>
+      <Choices correct="false">Sodium sotradecol</Choices>
+      <Choices correct="false">Microcoils</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Milan criteria govern patients with hepatocellular carcinoma for what?</Question>
+    <ID>177</ID>
+    <Answers>
+      <Choices correct="true">Liver transplantation</Choices>
+      <Choices correct="false">Medical therapy</Choices>
+      <Choices correct="false">Liver-directed therapy</Choices>
+      <Choices correct="false">Chemoembolization</Choices>
+      <Choices correct="false">Radioembolization</Choices>
+      <Choices correct="false">Hepatic resection</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which of the following is within Milan criteria for liver transplantation?</Question>
+    <ID>178</ID>
+    <Answers>
+      <Choices correct="true">1 mass smaller than 5 cm</Choices>
+      <Choices correct="false">1 mass smaller than 8 cm</Choices>
+      <Choices correct="false">1 mass smaller than 10 cm</Choices>
+      <Choices correct="false">2 masses smaller than 5 cm</Choices>
+      <Choices correct="false">2 masses smaller than 8 cm</Choices>
+      <Choices correct="false">2 masses smaller than 10 cm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which of the following is within Milan criteria for liver transplantation?</Question>
+    <ID>179</ID>
+    <Answers>
+      <Choices correct="true">3 masses smaller than 3 cm</Choices>
+      <Choices correct="false">3 masses smaller than 8 cm</Choices>
+      <Choices correct="false">3 masses smaller than 10 cm</Choices>
+      <Choices correct="false">5 masses smaller than 5 cm</Choices>
+      <Choices correct="false">5 masses smaller than 8 cm</Choices>
+      <Choices correct="false">5 masses smaller than 10 cm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which catheters are best for selecting the right and left adrenal veins?</Question>
+    <ID>180</ID>
+    <Answers>
+      <Choices correct="true">Renal double curve and Simmons 2</Choices>
+      <Choices correct="false">Renal double curve and Cobra</Choices>
+      <Choices correct="false">Mikaelson and Cobra</Choices>
+      <Choices correct="false">Simmons and Cobra</Choices>
+      <Choices correct="false">Sos and Simmons 2</Choices>
+      <Choices correct="false">Cobra and Berenstein</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Adrenal vein to peripheral vein ratio of _______ cortisol is confirmatory of an cortisol secreting adenoma?</Question>
+    <ID>181</ID>
+    <Answers>
+      <Choices correct="false">&lt; 6.5</Choices>
+      <Choices correct="false">&lt; 3.5</Choices>
+      <Choices correct="false">&lt; 1.5</Choices>
+      <Choices correct="false">&gt; 1.5</Choices>
+      <Choices correct="true">&gt; 3.5</Choices>
+      <Choices correct="false">&gt; 6.5</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which medication MUST be stopped prior to adrenal vein sampling?</Question>
+    <ID>182</ID>
+    <Answers>
+      <Choices correct="true">spironolactone</Choices>
+      <Choices correct="false">labetolol</Choices>
+      <Choices correct="false">coumadin</Choices>
+      <Choices correct="false">amlodipine</Choices>
+      <Choices correct="false">sildenafil</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Parathyroid sampling should be performed after negative...?</Question>
+    <ID>183</ID>
+    <Answers>
+      <Choices correct="false">Ultrasound</Choices>
+      <Choices correct="false">Sestamibi</Choices>
+      <Choices correct="false">Surgical exploration</Choices>
+      <Choices correct="false">A and B</Choices>
+      <Choices correct="false">A and C</Choices>
+      <Choices correct="true">A, B, C</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>F</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which catheter is shown in the image below?</Question>
+    <ID>184</ID>
+    <Answers>
+      <Choices correct="true">SOS catheter</Choices>
+      <Choices correct="false">Simmons catheter</Choices>
+      <Choices correct="false">C2 catheter</Choices>
+      <Choices correct="false">Renal double curve catheter</Choices>
+      <Choices correct="false">Berenstein catheter</Choices>
+      <Choices correct="false">Pigtail catheter</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image>Offline Test 5</Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which mesenteric vessel is selected?</Question>
+    <ID>185</ID>
+    <Answers>
+      <Choices correct="true">Superior mesenteric artery</Choices>
+      <Choices correct="false">Celiac artery</Choices>
+      <Choices correct="false">Inferior mesenteric artery</Choices>
+      <Choices correct="false">Renal artery</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image>Offline Test 5</Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which anatomic variant is shown?</Question>
+    <ID>186</ID>
+    <Answers>
+      <Choices correct="true">Replaced right hepatic artery</Choices>
+      <Choices correct="false">Accessory right hepatic artery</Choices>
+      <Choices correct="false">Accessory left hepatic artery</Choices>
+      <Choices correct="false">Replaced left hepatic artery</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image>Offline Test 5</Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>A patient with mild claudication is what on the Rutherford scale?</Question>
+    <ID>187</ID>
+    <Answers>
+      <Choices correct="false">Stage 0</Choices>
+      <Choices correct="true">Stage 1</Choices>
+      <Choices correct="false">Stage 2</Choices>
+      <Choices correct="false">Stage 3</Choices>
+      <Choices correct="false">Stage 4</Choices>
+      <Choices correct="false">Stage 5</Choices>
+      <Choices correct="false">Stage 6</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>A patient with severe claudication is what on the Rutherford scale?</Question>
+    <ID>188</ID>
+    <Answers>
+      <Choices correct="false">Stage 0</Choices>
+      <Choices correct="false">Stage 1</Choices>
+      <Choices correct="false">Stage 2</Choices>
+      <Choices correct="true">Stage 3</Choices>
+      <Choices correct="false">Stage 4</Choices>
+      <Choices correct="false">Stage 5</Choices>
+      <Choices correct="false">Stage 6</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>A patient with rest pain is what on the Rutherford scale?</Question>
+    <ID>189</ID>
+    <Answers>
+      <Choices correct="false">Stage 0</Choices>
+      <Choices correct="false">Stage 1</Choices>
+      <Choices correct="false">Stage 2</Choices>
+      <Choices correct="false">Stage 3</Choices>
+      <Choices correct="true">Stage 4</Choices>
+      <Choices correct="false">Stage 5</Choices>
+      <Choices correct="false">Stage 6</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>A patient with frank gangrene is what on the Rutherford scale?</Question>
+    <ID>190</ID>
+    <Answers>
+      <Choices correct="false">Stage 0</Choices>
+      <Choices correct="false">Stage 1</Choices>
+      <Choices correct="false">Stage 2</Choices>
+      <Choices correct="false">Stage 3</Choices>
+      <Choices correct="false">Stage 4</Choices>
+      <Choices correct="false">Stage 5</Choices>
+      <Choices correct="true">Stage 6</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>G</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which of classification systems stages femoral and popliteal lesions?</Question>
+    <ID>191</ID>
+    <Answers>
+      <Choices correct="true">TASC II classi&#xFB01;cation</Choices>
+      <Choices correct="false">Rutherford classification</Choices>
+      <Choices correct="false">Fontaine classification</Choices>
+      <Choices correct="false">Milan classification</Choices>
+      <Choices correct="false">CEAP classification</Choices>
+      <Choices correct="false">CTEPH classification</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>In regards to renal ablation, the ablation zone should be at least how far from the ureter?</Question>
+    <ID>192</ID>
+    <Answers>
+      <Choices correct="false">1 mm</Choices>
+      <Choices correct="false">5 mm</Choices>
+      <Choices correct="true">10 mm</Choices>
+      <Choices correct="false">15 mm</Choices>
+      <Choices correct="false">20 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>For consideration of renal ablation, tumors should be ideally less than...?</Question>
+    <ID>193</ID>
+    <Answers>
+      <Choices correct="false">5 mm</Choices>
+      <Choices correct="false">1 cm</Choices>
+      <Choices correct="true">3 cm</Choices>
+      <Choices correct="false">5 cm</Choices>
+      <Choices correct="false">7 cm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Radiofrequency ablation is a poor choice for lung ablation due to...?</Question>
+    <ID>194</ID>
+    <Answers>
+      <Choices correct="true">High impedance</Choices>
+      <Choices correct="false">HIgh incidence of pleural injury</Choices>
+      <Choices correct="false">Risk of cardiac arrhythmia</Choices>
+      <Choices correct="false">High incidence of cryoshock</Choices>
+      <Choices correct="false">Decreased heat sync</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which of classification systems stages femoral and popliteal lesions?</Question>
+    <ID>195</ID>
+    <Answers>
+      <Choices correct="true">TASC II classi&#xFB01;cation</Choices>
+      <Choices correct="false">Rutherford classification</Choices>
+      <Choices correct="false">Fontaine classification</Choices>
+      <Choices correct="false">Milan classification</Choices>
+      <Choices correct="false">CEAP classification</Choices>
+      <Choices correct="false">CTEPH classification</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What does an ankle-brachial index of 1.3 indicate?</Question>
+    <ID>196</ID>
+    <Answers>
+      <Choices correct="true">Dense arterial calcification</Choices>
+      <Choices correct="false">Normal vasculature</Choices>
+      <Choices correct="false">Mild peripheral vascular disease</Choices>
+      <Choices correct="false">Moderate peripheral vascular disease</Choices>
+      <Choices correct="false">Severe peripheral vascular disease</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What does an ankle-brachial index of 1.0 indicate?</Question>
+    <ID>197</ID>
+    <Answers>
+      <Choices correct="true">Normal vasculature</Choices>
+      <Choices correct="false">Mild peripheral vascular disease</Choices>
+      <Choices correct="false">Moderate peripheral vascular disease</Choices>
+      <Choices correct="false">Severe peripheral vascular disease</Choices>
+      <Choices correct="false">Dense arterial calcification</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What does an ankle-brachial index of 0.4 indicate?</Question>
+    <ID>198</ID>
+    <Answers>
+      <Choices correct="true">Severe peripheral vascular disease</Choices>
+      <Choices correct="false">Normal vasculature</Choices>
+      <Choices correct="false">Mild peripheral vascular disease</Choices>
+      <Choices correct="false">Moderate peripheral vascular disease</Choices>
+      <Choices correct="false">Dense arterial calcification</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What does an ankle-brachial index of 0.6 indicate?</Question>
+    <ID>199</ID>
+    <Answers>
+      <Choices correct="true">Moderate peripheral vascular disease</Choices>
+      <Choices correct="false">Normal vasculature</Choices>
+      <Choices correct="false">Mild peripheral vascular disease</Choices>
+      <Choices correct="false">Severe peripheral vascular disease</Choices>
+      <Choices correct="false">Dense arterial calcification</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What percentage of lymphatic fluid is drained by the thoracic duct?</Question>
+    <ID>200</ID>
+    <Answers>
+      <Choices correct="false">0.1</Choices>
+      <Choices correct="false">0.25</Choices>
+      <Choices correct="false">0.5</Choices>
+      <Choices correct="false">0.65</Choices>
+      <Choices correct="true">0.75</Choices>
+      <Choices correct="false">0.85</Choices>
+      <Choices correct="false">0.95</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The thoracic duct terminates at the...?</Question>
+    <ID>201</ID>
+    <Answers>
+      <Choices correct="true">Left jugulovenous angle</Choices>
+      <Choices correct="false">Right jugulovenous angle</Choices>
+      <Choices correct="false">Right axillary vein</Choices>
+      <Choices correct="false">Left axillary vein</Choices>
+      <Choices correct="false">Superior vena cava</Choices>
+      <Choices correct="false">Inferior vena cava</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the diameter of the thoracic duct?</Question>
+    <ID>202</ID>
+    <Answers>
+      <Choices correct="false">1-2 mm</Choices>
+      <Choices correct="true">2-5 mm</Choices>
+      <Choices correct="false">5-7 mm</Choices>
+      <Choices correct="false">8-10 mm</Choices>
+      <Choices correct="false">10-15 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the most common thoracic duct variant?</Question>
+    <ID>203</ID>
+    <Answers>
+      <Choices correct="true">Complete left-sided</Choices>
+      <Choices correct="false">Complete right-sided</Choices>
+      <Choices correct="false">Proximal duplicated</Choices>
+      <Choices correct="false">Distal duplicated</Choices>
+      <Choices correct="false">Plexiform variant</Choices>
+      <Choices correct="false">Absent cisterna chyli</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the most common cause of thoracic duct injury?</Question>
+    <ID>204</ID>
+    <Answers>
+      <Choices correct="true">Trauma</Choices>
+      <Choices correct="false">Lymphoma</Choices>
+      <Choices correct="false">Primary lung malignancy</Choices>
+      <Choices correct="false">Infectious</Choices>
+      <Choices correct="false">Idiopathic</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Thoracic duct embolization should be consider with what volume of chylous output?</Question>
+    <ID>205</ID>
+    <Answers>
+      <Choices correct="false">250 mL/day</Choices>
+      <Choices correct="false">500 mL/day</Choices>
+      <Choices correct="false">750 mL/day</Choices>
+      <Choices correct="true">1,000 mL/day</Choices>
+      <Choices correct="false">1,500 mL/day</Choices>
+      <Choices correct="false">2,000 mL/day</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the current favored approach for initial lymphatic opacification?</Question>
+    <ID>206</ID>
+    <Answers>
+      <Choices correct="true">Pelvic intranodal lymphangiography</Choices>
+      <Choices correct="false">Pedal lymphangiography</Choices>
+      <Choices correct="false">Abdominal lymphangiography</Choices>
+      <Choices correct="false">Axillary lymphangiography</Choices>
+      <Choices correct="false">Thoracic lymphangiography</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Access to pelvic lymph nodes should be achieved using...?</Question>
+    <ID>207</ID>
+    <Answers>
+      <Choices correct="false">16-gauge needle</Choices>
+      <Choices correct="false">18-gauge needle</Choices>
+      <Choices correct="false">20-gauge needle</Choices>
+      <Choices correct="false">21-gage needle</Choices>
+      <Choices correct="true">25-gauge needle</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>E</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Pelvic lymphangiography is performed with injection of...?</Question>
+    <ID>208</ID>
+    <Answers>
+      <Choices correct="true">Ethiodized oil</Choices>
+      <Choices correct="false">Saline</Choices>
+      <Choices correct="false">Iodinated contrast</Choices>
+      <Choices correct="false">Gadolinium</Choices>
+      <Choices correct="false">Methylene blue</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The cisterna chyli is located at what level?</Question>
+    <ID>209</ID>
+    <Answers>
+      <Choices correct="false">T6-T8</Choices>
+      <Choices correct="false">T8-T10</Choices>
+      <Choices correct="false">T10-T12</Choices>
+      <Choices correct="true">T12-L2</Choices>
+      <Choices correct="false">L2-L4</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The cisterna chyli is identify by what size criteria?</Question>
+    <ID>210</ID>
+    <Answers>
+      <Choices correct="false">50% dilation of the thoracic duct</Choices>
+      <Choices correct="false">100% dilation of the thoracic duct</Choices>
+      <Choices correct="true">200% dilation of the thoracic duct</Choices>
+      <Choices correct="false">500% dilation of the thoracic duct</Choices>
+      <Choices correct="false">1,000% dilation of the thoracic duct</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Access to the cisterna chyli is achieved using...?</Question>
+    <ID>211</ID>
+    <Answers>
+      <Choices correct="false">16-gauge needle</Choices>
+      <Choices correct="false">18-gauge needle</Choices>
+      <Choices correct="false">20-gauge needle</Choices>
+      <Choices correct="true">21-gauge needle</Choices>
+      <Choices correct="false">25-gauge needle</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the largest size needle?</Question>
+    <ID>212</ID>
+    <Answers>
+      <Choices correct="true">16-gauge</Choices>
+      <Choices correct="false">18-gauge</Choices>
+      <Choices correct="false">20-gauge</Choices>
+      <Choices correct="false">21-gauge</Choices>
+      <Choices correct="false">25-gauge</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is the largest size catheter?</Question>
+    <ID>213</ID>
+    <Answers>
+      <Choices correct="false">4-French</Choices>
+      <Choices correct="false">6-French</Choices>
+      <Choices correct="false">10-French</Choices>
+      <Choices correct="false">12-French</Choices>
+      <Choices correct="false">14-French</Choices>
+      <Choices correct="true">18-French</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>F</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Polyarthritis nodosa most commonly affects which artery?</Question>
+    <ID>214</ID>
+    <Answers>
+      <Choices correct="true">Renal</Choices>
+      <Choices correct="false">Upper extremity</Choices>
+      <Choices correct="false">Hepatic</Choices>
+      <Choices correct="false">Splenic</Choices>
+      <Choices correct="false">Superior mesenteric</Choices>
+      <Choices correct="false">Inferior mesenteric</Choices>
+      <Choices correct="false">Lower extremity</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Polyarthritis nodosa is most often characterized by...?</Question>
+    <ID>215</ID>
+    <Answers>
+      <Choices correct="true">Microaneurysms</Choices>
+      <Choices correct="false">Macroaneurysms</Choices>
+      <Choices correct="false">Dissections</Choices>
+      <Choices correct="false">Arteriovenous fistulae</Choices>
+      <Choices correct="false">Occlusions</Choices>
+      <Choices correct="false">Spontaneous hemorrhage</Choices>
+      <Choices correct="false">Lower extremity</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Visceral aneurysms are most common in which artery?</Question>
+    <ID>216</ID>
+    <Answers>
+      <Choices correct="true">Splenic</Choices>
+      <Choices correct="false">Upper extremity</Choices>
+      <Choices correct="false">Hepatic</Choices>
+      <Choices correct="false">Renal</Choices>
+      <Choices correct="false">Superior mesenteric</Choices>
+      <Choices correct="false">Inferior mesenteric</Choices>
+      <Choices correct="false">Lower extremity</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Fibromuscular dysplasia of the renal arteries is treated with...?</Question>
+    <ID>217</ID>
+    <Answers>
+      <Choices correct="true">Angioplasty</Choices>
+      <Choices correct="false">Conservative management</Choices>
+      <Choices correct="false">Stenting</Choices>
+      <Choices correct="false">Embolization</Choices>
+      <Choices correct="false">Surgical bypass</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Nutcracker syndrome is...?</Question>
+    <ID>218</ID>
+    <Answers>
+      <Choices correct="true">Compression of the left renal vein between the aorta and superior mesenteric artery</Choices>
+      <Choices correct="false">Compression of the right renal vein between the aorta and inferior vena cava</Choices>
+      <Choices correct="false">Compression of the left renal vein between the aorta and the inferior vena cava</Choices>
+      <Choices correct="false">Compression of the right renal vein vein between aorta and the superior mesenteric artery</Choices>
+      <Choices correct="false">Compression of the right renal vein between the aorta and inferior mesenteric artery</Choices>
+      <Choices correct="false">Compression of the left renal vein between the aorta and the inferior mesenteric artery</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>If air embolization is suspected in a patient, the patient should be positioned how?</Question>
+    <ID>219</ID>
+    <Answers>
+      <Choices correct="true">Left lateral decubitus</Choices>
+      <Choices correct="false">Prone</Choices>
+      <Choices correct="false">Supine</Choices>
+      <Choices correct="false">Right lateral decubitus</Choices>
+      <Choices correct="false">Head elevated</Choices>
+      <Choices correct="false">Feet elevated</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>In the left lateral decubitus position, air settles in the...?</Question>
+    <ID>220</ID>
+    <Answers>
+      <Choices correct="true">Right atrium</Choices>
+      <Choices correct="false">Left atrium</Choices>
+      <Choices correct="false">Left ventricle</Choices>
+      <Choices correct="false">Pulmonary arteries</Choices>
+      <Choices correct="false">Aorta</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Submassive pulmonary embolism is pulmonary embolism with...?</Question>
+    <ID>221</ID>
+    <Answers>
+      <Choices correct="true">Radiographic evidence of right heart dysfunction</Choices>
+      <Choices correct="false">Tachycardia</Choices>
+      <Choices correct="false">Sustained hypotension</Choices>
+      <Choices correct="false">Sustained hypoxemia</Choices>
+      <Choices correct="false">Acute coronary syndrome</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Massive pulmonary embolism is pulmonary embolism with...?</Question>
+    <ID>222</ID>
+    <Answers>
+      <Choices correct="true">Sustained hypotension</Choices>
+      <Choices correct="false">Tachycardia</Choices>
+      <Choices correct="false">Sustained hypoxemia</Choices>
+      <Choices correct="false">Radiographic evidence of right heart dysfunction</Choices>
+      <Choices correct="false">Acute coronary syndrome</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Treatment for non-massive pulmonary embolism is...?</Question>
+    <ID>223</ID>
+    <Answers>
+      <Choices correct="true">Anticoagulation</Choices>
+      <Choices correct="false">Conservative management</Choices>
+      <Choices correct="false">Catheter-directed thrombolysis</Choices>
+      <Choices correct="false">Systemic lysis</Choices>
+      <Choices correct="false">Surgical embolectomy</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Treatment for submassive pulmonary embolism is..?</Question>
+    <ID>224</ID>
+    <Answers>
+      <Choices correct="true">Catheter-directed thrombolysis</Choices>
+      <Choices correct="false">Conservative management</Choices>
+      <Choices correct="false">Anticoagulation</Choices>
+      <Choices correct="false">Systemic lysis</Choices>
+      <Choices correct="false">Surgical embolectomy</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Treatment for massive pulmonary embolism is...?</Question>
+    <ID>225</ID>
+    <Answers>
+      <Choices correct="true">Systemic lysis</Choices>
+      <Choices correct="false">Conservative management</Choices>
+      <Choices correct="false">Anticoagulation</Choices>
+      <Choices correct="false">Catheter-directed thrombolysis</Choices>
+      <Choices correct="false">Surgical embolectomy</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>A persistent sciatic artery...?</Question>
+    <ID>226</ID>
+    <Answers>
+      <Choices correct="true">Arises from the inferior gluteal artery (anterior division) and continues to the popliteal artery</Choices>
+      <Choices correct="false">Arises from the inferior gluteal artery (posterior division) and continues to the popliteal artery</Choices>
+      <Choices correct="false">Arises from the external iliac artery and continues to the popliteal artery</Choices>
+      <Choices correct="false">Arises from the aorta and continues to the popliteal artery</Choices>
+      <Choices correct="false">Arises from the external iliac artery and continues to the anterior tibial artery</Choices>
+      <Choices correct="false">Arises from the aorta and continues to the anterior tibial artery</Choices>
+      <Choices correct="false">None of the above</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>1</NOTA>
+  </Questions>
+  <Questions>
+    <Question>TheraSpheres are primarily indicated for the treatment of...?</Question>
+    <ID>227</ID>
+    <Answers>
+      <Choices correct="true">Hepatocellular carcinoma</Choices>
+      <Choices correct="false">Metastatic colorectal carcinoma</Choices>
+      <Choices correct="false">Cholangiocarcinoma</Choices>
+      <Choices correct="false">Metastatic breast carcinoma</Choices>
+      <Choices correct="false">Metastatic renal cell carcinoma</Choices>
+      <Choices correct="false">Sarcomas</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>SIR Spheres are primarily indicated for the treatment of...?</Question>
+    <ID>228</ID>
+    <Answers>
+      <Choices correct="true">Metastatic colorectal carcinoma</Choices>
+      <Choices correct="false">Hepatocellular carcinoma</Choices>
+      <Choices correct="false">Cholangiocarcinoma</Choices>
+      <Choices correct="false">Metastatic breast carcinoma</Choices>
+      <Choices correct="false">Metastatic renal cell carcinoma</Choices>
+      <Choices correct="false">Sarcomas</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>TheraSpheres are made of...?</Question>
+    <ID>229</ID>
+    <Answers>
+      <Choices correct="true">Glass</Choices>
+      <Choices correct="false">Resin</Choices>
+      <Choices correct="false">Gelatin</Choices>
+      <Choices correct="false">Aluminum </Choices>
+      <Choices correct="false">Nitinol</Choices>
+      <Choices correct="false">Hydroxyurea</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>SIR Spheres are made of...?</Question>
+    <ID>230</ID>
+    <Answers>
+      <Choices correct="true">Resin</Choices>
+      <Choices correct="false">Glass</Choices>
+      <Choices correct="false">Gelatin</Choices>
+      <Choices correct="false">Aluminum </Choices>
+      <Choices correct="false">Nitinol</Choices>
+      <Choices correct="false">Hydroxyurea</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Bland embolization uses particles mixed with...?</Question>
+    <ID>231</ID>
+    <Answers>
+      <Choices correct="false">Chemotherapy</Choices>
+      <Choices correct="false">Yttrium</Choices>
+      <Choices correct="false">Lipiodol</Choices>
+      <Choices correct="false">Onyx</Choices>
+      <Choices correct="false">Nitinol</Choices>
+      <Choices correct="true">None of the above</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>F</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>1</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Conventional chemoembolization uses chemotherapy mixed with...?</Question>
+    <ID>232</ID>
+    <Answers>
+      <Choices correct="false">Particles</Choices>
+      <Choices correct="false">Yttrium</Choices>
+      <Choices correct="true">Lipiodol</Choices>
+      <Choices correct="false">Onyx</Choices>
+      <Choices correct="false">Nitinol</Choices>
+      <Choices correct="false">None of the above</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>1</NOTA>
+  </Questions>
+  <Questions>
+    <Question>DEB chemoembolization uses chemotherapy mixed with...?</Question>
+    <ID>233</ID>
+    <Answers>
+      <Choices correct="true">Particles</Choices>
+      <Choices correct="false">Yttrium</Choices>
+      <Choices correct="false">Lipiodol</Choices>
+      <Choices correct="false">Onyx</Choices>
+      <Choices correct="false">Nitinol</Choices>
+      <Choices correct="false">None of the above</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>1</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Popliteal artery entrapment syndrome is due to an aberrant...?</Question>
+    <ID>234</ID>
+    <Answers>
+      <Choices correct="true">Medical head of the gastrocnemius</Choices>
+      <Choices correct="false">Lateral head of the gastrocnemius</Choices>
+      <Choices correct="false">Semimembranosus</Choices>
+      <Choices correct="false">Semitendinosus</Choices>
+      <Choices correct="false">Achilles tendon</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Treatment of popliteal artery entrapment syndrome is...?</Question>
+    <ID>235</ID>
+    <Answers>
+      <Choices correct="true">Surgical release</Choices>
+      <Choices correct="false">Conservative management</Choices>
+      <Choices correct="false">Anticoagulation</Choices>
+      <Choices correct="false">Embolization</Choices>
+      <Choices correct="false">Bare metal stent placement</Choices>
+      <Choices correct="false">Covered stent placement</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Thoracic outlet syndrome is compression where?</Question>
+    <ID>236</ID>
+    <Answers>
+      <Choices correct="true">Between the clavicle and first rib</Choices>
+      <Choices correct="false">Between the clavicle and second rib</Choices>
+      <Choices correct="false">Between the scapula and first rib</Choices>
+      <Choices correct="false">Between the scapula and second rib</Choices>
+      <Choices correct="false">Between the clavicle and scapula</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Hypothenar hammer syndrome is injury to the...?</Question>
+    <ID>237</ID>
+    <Answers>
+      <Choices correct="true">Ulnar artery</Choices>
+      <Choices correct="false">Brachial artery</Choices>
+      <Choices correct="false">Radial artery</Choices>
+      <Choices correct="false">Interosseus artery</Choices>
+      <Choices correct="false">Superficial palmar arch</Choices>
+      <Choices correct="false">Deep palmar arch</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Hypothenar hammer syndrome is injury to the ulnar artery as it crosses the...?</Question>
+    <ID>238</ID>
+    <Answers>
+      <Choices correct="true">Hamate</Choices>
+      <Choices correct="false">Scaphoid</Choices>
+      <Choices correct="false">Lunate</Choices>
+      <Choices correct="false">Pisiform</Choices>
+      <Choices correct="false">Radial head</Choices>
+      <Choices correct="false">Ulnar head</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Dieulafoy lesions typically arise from the...?</Question>
+    <ID>239</ID>
+    <Answers>
+      <Choices correct="true">Left gastric artery</Choices>
+      <Choices correct="false">Right gastric artery</Choices>
+      <Choices correct="false">Splenic artery</Choices>
+      <Choices correct="false">Common hepatic artery</Choices>
+      <Choices correct="false">Proper hepatic artery</Choices>
+      <Choices correct="false">Gastroduodenal artery</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The most common cause of acute mesenteric ischemia is...?</Question>
+    <ID>240</ID>
+    <Answers>
+      <Choices correct="true">Embolism</Choices>
+      <Choices correct="false">Thrombosis</Choices>
+      <Choices correct="false">Trauma</Choices>
+      <Choices correct="false">Dissection</Choices>
+      <Choices correct="false">Congenital abnormality</Choices>
+      <Choices correct="false">Surgical</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The left gonadal vein drains into the...?</Question>
+    <ID>241</ID>
+    <Answers>
+      <Choices correct="true">Left renal vein</Choices>
+      <Choices correct="false">Right renal vein</Choices>
+      <Choices correct="false">Left common iliac vein</Choices>
+      <Choices correct="false">Right common iliac vein</Choices>
+      <Choices correct="false">Inferior vena cava</Choices>
+      <Choices correct="false">Superior vena cava</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>The right gonadal vein drains into the...?</Question>
+    <ID>242</ID>
+    <Answers>
+      <Choices correct="true">Inferior vena cava</Choices>
+      <Choices correct="false">Left renal vein</Choices>
+      <Choices correct="false">Right renal vein</Choices>
+      <Choices correct="false">Left common iliac vein</Choices>
+      <Choices correct="false">Right common iliac vein</Choices>
+      <Choices correct="false">Superior vena cava</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Isolated left-sided varicocele should raise concerns for...?</Question>
+    <ID>243</ID>
+    <Answers>
+      <Choices correct="false">Left renal vein dissection</Choices>
+      <Choices correct="false">Right renal vein dissection</Choices>
+      <Choices correct="false">Thoracic aortic aneurysm</Choices>
+      <Choices correct="false">Abdominal aortic aneurysm</Choices>
+      <Choices correct="false">Aortic occlusion</Choices>
+      <Choices correct="false">Malignancy</Choices>
+      <Choices correct="true">None of the above</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>G</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>1</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Isolated right-sided varicocele should raise concerns for...?</Question>
+    <ID>244</ID>
+    <Answers>
+      <Choices correct="false">Left renal vein dissection</Choices>
+      <Choices correct="false">Right renal vein dissection</Choices>
+      <Choices correct="false">Thoracic aortic aneurysm</Choices>
+      <Choices correct="false">Abdominal aortic aneurysm</Choices>
+      <Choices correct="false">Aortic occlusion</Choices>
+      <Choices correct="true">Malignancy</Choices>
+      <Choices correct="false">None of the above</Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>F</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>1</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Most common vascular complication associated with liver transplantation is...?</Question>
+    <ID>245</ID>
+    <Answers>
+      <Choices correct="true">Hepatic artery thrombosis</Choices>
+      <Choices correct="false">Portal vein thrombosis</Choices>
+      <Choices correct="false">Biliary obstruction</Choices>
+      <Choices correct="false">Hepatic artery dissection</Choices>
+      <Choices correct="false">Portal vein dissection</Choices>
+      <Choices correct="false">Biliary leakage</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Splenic artery aneurysms should be treated at what threshold?</Question>
+    <ID>246</ID>
+    <Answers>
+      <Choices correct="false">5 mm</Choices>
+      <Choices correct="false">10 mm</Choices>
+      <Choices correct="false">15 mm</Choices>
+      <Choices correct="true">20 mm</Choices>
+      <Choices correct="false">25 mm</Choices>
+      <Choices correct="false">30 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Splenic artery aneurysms in pregnant patients should be treated at what threshold?</Question>
+    <ID>247</ID>
+    <Answers>
+      <Choices correct="false">5 mm</Choices>
+      <Choices correct="true">10 mm</Choices>
+      <Choices correct="false">15 mm</Choices>
+      <Choices correct="false">20 mm</Choices>
+      <Choices correct="false">25 mm</Choices>
+      <Choices correct="false">30 mm</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>B</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Doppler gate should be at an angle of &lt;60 to the vessel otherwise velocity may...?</Question>
+    <ID>248</ID>
+    <Answers>
+      <Choices correct="true">Be underestimated</Choices>
+      <Choices correct="false">Be underestimated</Choices>
+      <Choices correct="false">Result in aliasing</Choices>
+      <Choices correct="false">None of the above</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>A Doppler gate at which angle may result in apparent vascular occlusion?</Question>
+    <ID>249</ID>
+    <Answers>
+      <Choices correct="false">0 degrees</Choices>
+      <Choices correct="false">60 degrees</Choices>
+      <Choices correct="true">90 degrees</Choices>
+      <Choices correct="false">180 degrees</Choices>
+      <Choices correct="false">270 degrees</Choices>
+      <Choices correct="false">360 degrees</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the preferred stent for renal arteries?</Question>
+    <ID>250</ID>
+    <Answers>
+      <Choices correct="true">Balloon expandable</Choices>
+      <Choices correct="false">Self expanding</Choices>
+      <Choices correct="false">Covered stent</Choices>
+      <Choices correct="false">Stent with large interstices</Choices>
+      <Choices correct="false">Drug eluting stent</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which is a correct indication for renal artery stenting?</Question>
+    <ID>251</ID>
+    <Answers>
+      <Choices correct="false">At least 50% stenosis with or without pressure gradient between abdominal aorta and renal artery</Choices>
+      <Choices correct="false">Any degree of stenosis with any pressure gradient between abdominal aorta and renal artery</Choices>
+      <Choices correct="true">70-80% stenosis with 10-20 mmHg pressure gradient between abdominal aorta and renal artery</Choices>
+      <Choices correct="false">50-70% stenosis with 5-10 mmHg pressure gradient between abdominal aorta and renal artery</Choices>
+      <Choices correct="false">Greater than 80% stenosis with or without pressure gradient between abdominal aorta and renal artery</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>C</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Which does NOT supply collateral vascular flow to the spleen?</Question>
+    <ID>252</ID>
+    <Answers>
+      <Choices correct="true">Left gastric</Choices>
+      <Choices correct="false">Dorsal pancreatic artery</Choices>
+      <Choices correct="false">Short gastric artery</Choices>
+      <Choices correct="false">Right gastroepiploic</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>What is the Milan criteria?</Question>
+    <ID>253</ID>
+    <Answers>
+      <Choices correct="false">1 nodule &lt; 3 cm or 3 nodules &lt;1 cm</Choices>
+      <Choices correct="false">Up to 3 nodules &lt;1 cm</Choices>
+      <Choices correct="false">1 nodule &lt; 7 cm or 3 nodules &lt;5 cm</Choices>
+      <Choices correct="true">1 nodule &lt; 5 cm or 3 nodules &lt; 3 cm</Choices>
+      <Choices correct="false">1 nodule &lt; 3 cm path proven HCC or 1 nodule &lt; 5 cm suspicious for HCC</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>Hepatocellular carcinoma recurrence after liver transplantation is approximately...?</Question>
+    <ID>254</ID>
+    <Answers>
+      <Choices correct="false">0.05</Choices>
+      <Choices correct="false">0.15</Choices>
+      <Choices correct="false">0.25</Choices>
+      <Choices correct="true">0.35</Choices>
+      <Choices correct="false">0.45</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>AFP of ____ prior to transplant is associated with hepatocellular carcinoma recurrence?</Question>
+    <ID>255</ID>
+    <Answers>
+      <Choices correct="false">&gt; 100 ng/mL</Choices>
+      <Choices correct="false">&gt; 200 ng/mL</Choices>
+      <Choices correct="false">&gt; 300 ng/mL</Choices>
+      <Choices correct="true">&gt; 400 ng/mL</Choices>
+      <Choices correct="false">&gt; 500 ng/mL</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>D</Answer>
+    <Shuffle>0</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>All are ABSOLUTE contraindications to chemoembolization EXCEPT...?</Question>
+    <ID>256</ID>
+    <Answers>
+      <Choices correct="true">Open sphincter of oddi or biliary-enteric anastomosis</Choices>
+      <Choices correct="false">Childs B8 or higher</Choices>
+      <Choices correct="false">Overt liver decompensation</Choices>
+      <Choices correct="false">Severely reduced portal flow</Choices>
+      <Choices correct="false">Extensive bilobar disease</Choices>
+      <Choices correct="false">Renal insufficiency Cr &gt;2.0</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>All are RELATIVE contraindications to chemoembolization EXCEPT...?</Question>
+    <ID>257</ID>
+    <Answers>
+      <Choices correct="true">Renal insufficiency Cr &gt;2.0</Choices>
+      <Choices correct="false">Total bilirubin &gt;3.0</Choices>
+      <Choices correct="false">&gt;50% infiltrative HCC with Tbili &gt;2.0</Choices>
+      <Choices correct="false">Pre-existing TIPS</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+  <Questions>
+    <Question>In patients with a violated sphincter of Oddi which has the lowest risk of abscess?</Question>
+    <ID>258</ID>
+    <Answers>
+      <Choices correct="true">Radioembolization</Choices>
+      <Choices correct="false">Conventional chemoembolization</Choices>
+      <Choices correct="false">Drug eluting bead chemoembolization</Choices>
+      <Choices correct="false">Bland embolization</Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+      <Choices correct="false"></Choices>
+    </Answers>
+    <Answer>A</Answer>
+    <Shuffle>1</Shuffle>
+    <Image></Image>
+    <NOTA>0</NOTA>
+  </Questions>
+</QuestionDatabase>

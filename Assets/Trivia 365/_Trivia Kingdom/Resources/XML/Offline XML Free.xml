@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+  <QuestionDatabase>
+    <Questions>
+      <Question>Which does NOT supply collateral vascular flow to the spleen?</Question>
+      <ID>1</ID>
+      <Answers>
+        <Choices correct="true">Left gastric</Choices>
+        <Choices correct="false">Dorsal pancreatic artery</Choices>
+        <Choices correct="false">Short gastric artery</Choices>
+        <Choices correct="false">Right gastroepiploic</Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+      </Answers>
+      <Answer>A</Answer>
+      <Shuffle>1</Shuffle>
+      <Image></Image>
+      <NOTA>0</NOTA>
+    </Questions>
+    <Questions>
+      <Question>Splenic artery aneurysms in pregnant patients should be treated at what threshold?</Question>
+      <ID>2</ID>
+      <Answers>
+        <Choices correct="false">5 mm</Choices>
+        <Choices correct="true">10 mm</Choices>
+        <Choices correct="false">15 mm</Choices>
+        <Choices correct="false">20 mm</Choices>
+        <Choices correct="false">25 mm</Choices>
+        <Choices correct="false">30 mm</Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+      </Answers>
+      <Answer>B</Answer>
+      <Shuffle>0</Shuffle>
+      <Image></Image>
+      <NOTA>0</NOTA>
+    </Questions>
+    <Questions>
+      <Question>Which medication MUST be stopped prior to adrenal vein sampling?</Question>
+      <ID>3</ID>
+      <Answers>
+        <Choices correct="true">spironolactone</Choices>
+        <Choices correct="false">labetolol</Choices>
+        <Choices correct="false">coumadin</Choices>
+        <Choices correct="false">amlodipine</Choices>
+        <Choices correct="false">sildenafil</Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+      </Answers>
+      <Answer>A</Answer>
+      <Shuffle>1</Shuffle>
+      <Image></Image>
+      <NOTA>0</NOTA>
+    </Questions>
+    <Questions>
+      <Question>With regard to dialysis, hand pain during dialysis implies...?</Question>
+      <ID>4</ID>
+      <Answers>
+        <Choices correct="true">Steal syndrome</Choices>
+        <Choices correct="false">Access central stenosis</Choices>
+        <Choices correct="false">Access venous outflow stenosis</Choices>
+        <Choices correct="false">Access arterial anastomotic stenosis</Choices>
+        <Choices correct="false">Access thrombosis</Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+      </Answers>
+      <Answer>A</Answer>
+      <Shuffle>1</Shuffle>
+      <Image></Image>
+      <NOTA>0</NOTA>
+    </Questions>
+    <Questions>
+      <Question>Which of the following studies helps justify inferior vena cava filter placement?</Question>
+      <ID>5</ID>
+      <Answers>
+        <Choices correct="true">PREPIC</Choices>
+        <Choices correct="false">ATTRACT</Choices>
+        <Choices correct="false">PROLONG</Choices>
+        <Choices correct="false">DACUS</Choices>
+        <Choices correct="false">CAVENT</Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+      </Answers>
+      <Answer>A</Answer>
+      <Shuffle>1</Shuffle>
+      <Image></Image>
+      <NOTA>0</NOTA>
+    </Questions>
+    <Questions>
+      <Question>Regarding endoleaks, which results from expansion of aneurysm sac without leak on imaging?</Question>
+      <ID>6</ID>
+      <Answers>
+        <Choices correct="false">Type I</Choices>
+        <Choices correct="false">Type II</Choices>
+        <Choices correct="false">Type III</Choices>
+        <Choices correct="false">Type IV</Choices>
+        <Choices correct="true">Type V</Choices>
+        <Choices correct="false">Type VI</Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+      </Answers>
+      <Answer>E</Answer>
+      <Shuffle>0</Shuffle>
+      <Image></Image>
+      <NOTA>0</NOTA>
+    </Questions>
+    <Questions>
+      <Question>Which catheter is shown in the image below?</Question>
+      <ID>7</ID>
+      <Answers>
+        <Choices correct="true">SOS catheter</Choices>
+        <Choices correct="false">Simmons catheter</Choices>
+        <Choices correct="false">C2 catheter</Choices>
+        <Choices correct="false">Renal double curve catheter</Choices>
+        <Choices correct="false">Berenstein catheter</Choices>
+        <Choices correct="false">Pigtail catheter</Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+      </Answers>
+      <Answer>A</Answer>
+      <Shuffle>1</Shuffle>
+      <Image>Offline Test 5</Image>
+      <NOTA>0</NOTA>
+    </Questions>
+    <Questions>
+      <Question>A patient with severe claudication is what on the Rutherford scale?</Question>
+      <ID>8</ID>
+      <Answers>
+        <Choices correct="false">Stage 0</Choices>
+        <Choices correct="false">Stage 1</Choices>
+        <Choices correct="false">Stage 2</Choices>
+        <Choices correct="true">Stage 3</Choices>
+        <Choices correct="false">Stage 4</Choices>
+        <Choices correct="false">Stage 5</Choices>
+        <Choices correct="false">Stage 6</Choices>
+        <Choices correct="false"></Choices>
+      </Answers>
+      <Answer>D</Answer>
+      <Shuffle>0</Shuffle>
+      <Image></Image>
+      <NOTA>0</NOTA>
+    </Questions>
+    <Questions>
+      <Question>A patient with frank gangrene is what on the Rutherford scale?</Question>
+      <ID>9</ID>
+      <Answers>
+        <Choices correct="false">Stage 0</Choices>
+        <Choices correct="false">Stage 1</Choices>
+        <Choices correct="false">Stage 2</Choices>
+        <Choices correct="false">Stage 3</Choices>
+        <Choices correct="false">Stage 4</Choices>
+        <Choices correct="false">Stage 5</Choices>
+        <Choices correct="true">Stage 6</Choices>
+        <Choices correct="false"></Choices>
+      </Answers>
+      <Answer>G</Answer>
+      <Shuffle>0</Shuffle>
+      <Image></Image>
+      <NOTA>0</NOTA>
+    </Questions>
+    <Questions>
+      <Question>What is the most common cause of thoracic duct injury?</Question>
+      <ID>10</ID>
+      <Answers>
+        <Choices correct="true">Trauma</Choices>
+        <Choices correct="false">Lymphoma</Choices>
+        <Choices correct="false">Primary lung malignancy</Choices>
+        <Choices correct="false">Infectious</Choices>
+        <Choices correct="false">Idiopathic</Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+      </Answers>
+      <Answer>A</Answer>
+      <Shuffle>1</Shuffle>
+      <Image></Image>
+      <NOTA>0</NOTA>
+    </Questions>
+    <Questions>
+      <Question>Thoracic duct embolization should be consider with what volume of chylous output?</Question>
+      <ID>11</ID>
+      <Answers>
+        <Choices correct="false">250 mL/day</Choices>
+        <Choices correct="false">500 mL/day</Choices>
+        <Choices correct="false">750 mL/day</Choices>
+        <Choices correct="true">1,000 mL/day</Choices>
+        <Choices correct="false">1,500 mL/day</Choices>
+        <Choices correct="false">2,000 mL/day</Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+      </Answers>
+      <Answer>D</Answer>
+      <Shuffle>0</Shuffle>
+      <Image></Image>
+      <NOTA>0</NOTA>
+    </Questions>
+    <Questions>
+      <Question>Which is the current favored approach for initial lymphatic opacification?</Question>
+      <ID>12</ID>
+      <Answers>
+        <Choices correct="true">Pelvic intranodal lymphangiography</Choices>
+        <Choices correct="false">Pedal lymphangiography</Choices>
+        <Choices correct="false">Abdominal lymphangiography</Choices>
+        <Choices correct="false">Axillary lymphangiography</Choices>
+        <Choices correct="false">Thoracic lymphangiography</Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+      </Answers>
+      <Answer>A</Answer>
+      <Shuffle>1</Shuffle>
+      <Image></Image>
+      <NOTA>0</NOTA>
+    </Questions>
+    <Questions>
+      <Question>Access to pelvic lymph nodes should be achieved using...?</Question>
+      <ID>13</ID>
+      <Answers>
+        <Choices correct="false">16-gauge needle</Choices>
+        <Choices correct="false">18-gauge needle</Choices>
+        <Choices correct="false">20-gauge needle</Choices>
+        <Choices correct="false">21-gage needle</Choices>
+        <Choices correct="true">25-gauge needle</Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+      </Answers>
+      <Answer>E</Answer>
+      <Shuffle>0</Shuffle>
+      <Image></Image>
+      <NOTA>0</NOTA>
+    </Questions>
+    <Questions>
+      <Question>TheraSpheres are primarily indicated for the treatment of...?</Question>
+      <ID>14</ID>
+      <Answers>
+        <Choices correct="true">Hepatocellular carcinoma</Choices>
+        <Choices correct="false">Metastatic colorectal carcinoma</Choices>
+        <Choices correct="false">Cholangiocarcinoma</Choices>
+        <Choices correct="false">Metastatic breast carcinoma</Choices>
+        <Choices correct="false">Metastatic renal cell carcinoma</Choices>
+        <Choices correct="false">Sarcomas</Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+      </Answers>
+      <Answer>A</Answer>
+      <Shuffle>1</Shuffle>
+      <Image></Image>
+      <NOTA>0</NOTA>
+    </Questions>
+    <Questions>
+      <Question>SIR Spheres are primarily indicated for the treatment of...?</Question>
+      <ID>15</ID>
+      <Answers>
+        <Choices correct="true">Metastatic colorectal carcinoma</Choices>
+        <Choices correct="false">Hepatocellular carcinoma</Choices>
+        <Choices correct="false">Cholangiocarcinoma</Choices>
+        <Choices correct="false">Metastatic breast carcinoma</Choices>
+        <Choices correct="false">Metastatic renal cell carcinoma</Choices>
+        <Choices correct="false">Sarcomas</Choices>
+        <Choices correct="false"></Choices>
+        <Choices correct="false"></Choices>
+      </Answers>
+      <Answer>A</Answer>
+      <Shuffle>1</Shuffle>
+      <Image></Image>
+      <NOTA>0</NOTA>
+    </Questions>
+  </QuestionDatabase>

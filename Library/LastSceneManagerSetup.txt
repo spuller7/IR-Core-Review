@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Interventional Radiology.unity
+  isLoaded: 1
+  isActive: 1
